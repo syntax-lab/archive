@@ -1,0 +1,1998 @@
+    1.Meal, Inexpensive Restaurant ......................................................55
+    2.Meal for 2 People, Mid-range Restaurant, Three-course .............................91
+    3.McMeal at McDonalds (or Equivalent Combo Meal) ...................................127
+    4.Domestic Beer (0.5 liter draught) ................................................163
+    5.Cappuccino (regular) .............................................................199
+    6.Coke/Pepsi (0.33 liter bottle) ...................................................235
+    7.Water (0.33 liter bottle)  .......................................................271
+    8.Milk (regular), (1 liter) ........................................................307
+    9.Loaf of Fresh White Bread (500g) .................................................343
+   10.Rice (white), (1kg) ..............................................................379
+   11.Eggs (regular) (12) ..............................................................415
+   12.Local Cheese (1kg) ...............................................................451
+   13.Chicken Breasts (Boneless, Skinless), (1kg) ......................................487
+   14.Beef Round (1kg) (or Equivalent Back Leg Red Meat) ...............................523
+   15.Apples (1kg) .....................................................................559
+   16.Banana (1kg) .....................................................................595
+   17.Oranges (1kg) ....................................................................631
+   18.Tomato (1kg) .....................................................................667
+   19.Potato (1kg) .....................................................................703
+   20.Onion (1kg) ......................................................................739
+   21.Lettuce (1 head) .................................................................775
+   22.Water (1.5 liter bottle) .........................................................811
+   23.Bottle of Wine (Mid-Range) .......................................................847
+   24.Domestic Beer (0.5 liter bottle) .................................................883
+   25.Cigarettes 20 Pack (Marlboro) ....................................................919
+   26.One-way Ticket (Local Transport) .................................................955
+   27.Monthly Pass (Regular Price) .....................................................991
+   28.Taxi Start (Normal Tariff) ......................................................1027
+   29.Taxi 1km (Normal Tariff) ........................................................1063
+   30.Taxi 1hour Waiting (Normal Tariff) ..............................................1099
+   31.Gasoline (1 liter) ..............................................................1135
+   32.Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) .....................1171
+   33.Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car) ........................1207
+   34.Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment ........1243
+   35.1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) ...................1279
+   36.Internet (60 Mbps or More, Unlimited Data, Cable/ADSL) ..........................1315
+   37.Fitness Club, Monthly Fee for 1 Adult ...........................................1351
+   38.Tennis Court Rent (1 Hour on Weekend) ...........................................1387
+   39.Cinema, International Release, 1 Seat ...........................................1423
+   40.Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child .............1459
+   41.International Primary School, Yearly for 1 Child ................................1495
+   42.1 Pair of Jeans (Levis 501 Or Similar) ..........................................1531
+   43.1 Summer Dress in a Chain Store (Zara, H&M, ...) ................................1567
+   44.1 Pair of Nike Running Shoes (Mid-Range) ........................................1603
+   45.1 Pair of Men Leather Business Shoes ............................................1639
+   46.Apartment (1 bedroom) in City Centre ............................................1675
+   47.Apartment (1 bedroom) Outside of Centre .........................................1711
+   48.Apartment (3 bedrooms) in City Centre ...........................................1747
+   49.Apartment (3 bedrooms) Outside of Centre ........................................1783
+   50.Price per Square Meter to Buy Apartment in City Centre (85m2) ...................1819
+   51.Price per Square Meter to Buy Apartment Outside of Centre (85m2) ................1855
+   52.Average Monthly Net Salary (After Tax) ..........................................1891
+   53.Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate ......1927
+   54.Electronics (iPad) ..............................................................1963
+1.Meal, Inexpensive Restaurant :
+	-"South Korea" purchasing power: 5188.43x
+	-"Japan" purchasing power: 4573.445x
+	-"Iceland" purchasing power: 4521.796x
+	-"Sweden" purchasing power: 4432.56x
+	-"Australia" purchasing power: 4395.15x
+	-"Canada" purchasing power: 4369.694x
+	-"United States" purchasing power: 4288.81x
+	-"Germany" purchasing power: 3914.261x
+	-"New Zealand" purchasing power: 3890.299x
+	-"Luxembourg" purchasing power: 3847.103x
+	-"Finland" purchasing power: 3741.76x
+	-"Denmark" purchasing power: 3594.636x
+	-"Austria" purchasing power: 3541.496x
+	-"Switzerland" purchasing power: 3439.68x
+	-"Norway" purchasing power: 3295.892x
+	-"Ireland" purchasing power: 3115.073x
+	-"Netherlands" purchasing power: 3091.202x
+	-"United Kingdom" purchasing power: 2976.989x
+	-"Slovenia" purchasing power: 2938.724x
+	-"Belgium" purchasing power: 2898.475x
+	-"France" purchasing power: 2871.361x
+	-"Spain" purchasing power: 2784.771x
+	-"Czech Republic" purchasing power: 2646.127x
+	-"Slovakia" purchasing power: 2619.894x
+	-"Israel" purchasing power: 2524.002x
+	-"Poland" purchasing power: 2510.467x
+	-"Chile" purchasing power: 2310.409x
+	-"Portugal" purchasing power: 2113.311x
+	-"Estonia" purchasing power: 1999.883x
+	-"Hungary" purchasing power: 1978.797x
+	-"Latvia" purchasing power: 1938.616x
+	-"Italy" purchasing power: 1931.437x
+	-"Lithuania" purchasing power: 1784.78x
+	-"Greece" purchasing power: 1720.246x
+	-"Mexico" purchasing power: 1649.328x
+2.Meal for 2 People, Mid-range Restaurant, Three-course :
+	-"United States" purchasing power: 1211.16x
+	-"Australia" purchasing power: 1098.983x
+	-"Japan" purchasing power: 1028.902x
+	-"Canada" purchasing power: 1008.12x
+	-"Luxembourg" purchasing power: 970.891x
+	-"Iceland" purchasing power: 942.139x
+	-"South Korea" purchasing power: 907.225x
+	-"Germany" purchasing power: 869.496x
+	-"Denmark" purchasing power: 862.769x
+	-"Switzerland" purchasing power: 859.92x
+	-"Austria" purchasing power: 850.158x
+	-"Ireland" purchasing power: 834.569x
+	-"Spain" purchasing power: 795.449x
+	-"United Kingdom" purchasing power: 794.107x
+	-"Slovenia" purchasing power: 783.602x
+	-"New Zealand" purchasing power: 778.189x
+	-"Netherlands" purchasing power: 773.027x
+	-"France" purchasing power: 746.392x
+	-"Sweden" purchasing power: 739.103x
+	-"Belgium" purchasing power: 724.831x
+	-"Norway" purchasing power: 700.447x
+	-"Israel" purchasing power: 688.178x
+	-"Finland" purchasing power: 686.008x
+	-"Italy" purchasing power: 579.567x
+	-"Czech Republic" purchasing power: 573.871x
+	-"Portugal" purchasing power: 563.508x
+	-"Slovakia" purchasing power: 545.691x
+	-"Greece" purchasing power: 537.459x
+	-"Poland" purchasing power: 502.469x
+	-"Chile" purchasing power: 470.833x
+	-"Lithuania" purchasing power: 416.222x
+	-"Hungary" purchasing power: 414.38x
+	-"Estonia" purchasing power: 374.895x
+	-"Mexico" purchasing power: 366.439x
+	-"Latvia" purchasing power: 339.098x
+3.McMeal at McDonalds (or Equivalent Combo Meal) :
+	-"United States" purchasing power: 8651.143x
+	-"Australia" purchasing power: 7992.218x
+	-"Iceland" purchasing power: 7212.57x
+	-"Luxembourg" purchasing power: 7009.775x
+	-"United Kingdom" purchasing power: 6639.296x
+	-"Switzerland" purchasing power: 6613.578x
+	-"Canada" purchasing power: 6548.822x
+	-"New Zealand" purchasing power: 6255.6x
+	-"Austria" purchasing power: 6076.226x
+	-"Japan" purchasing power: 6049.684x
+	-"South Korea" purchasing power: 6048.17x
+	-"Denmark" purchasing power: 5948.732x
+	-"Ireland" purchasing power: 5842.904x
+	-"Netherlands" purchasing power: 5798.13x
+	-"Sweden" purchasing power: 5543.271x
+	-"Belgium" purchasing power: 5436.634x
+	-"Germany" purchasing power: 5219.014x
+	-"Finland" purchasing power: 5179.623x
+	-"Norway" purchasing power: 5095.74x
+	-"Slovenia" purchasing power: 4702.993x
+	-"France" purchasing power: 4665.567x
+	-"Spain" purchasing power: 3979.245x
+	-"Italy" purchasing power: 3622.772x
+	-"Chile" purchasing power: 3176.32x
+	-"Israel" purchasing power: 3027.0x
+	-"Greece" purchasing power: 2865.396x
+	-"Portugal" purchasing power: 2816.716x
+	-"Poland" purchasing power: 2792.308x
+	-"Latvia" purchasing power: 2713.38x
+	-"Czech Republic" purchasing power: 2646.127x
+	-"Slovakia" purchasing power: 2517.936x
+	-"Estonia" purchasing power: 2498.387x
+	-"Lithuania" purchasing power: 2498.063x
+	-"Hungary" purchasing power: 2377.567x
+	-"Mexico" purchasing power: 1832.196x
+4.Domestic Beer (0.5 liter draught) :
+	-"United States" purchasing power: 15139.5x
+	-"Luxembourg" purchasing power: 12625.0x
+	-"Switzerland" purchasing power: 12278.412x
+	-"Spain" purchasing power: 11587.912x
+	-"Germany" purchasing power: 11172.362x
+	-"Australia" purchasing power: 10983.957x
+	-"Portugal" purchasing power: 10977.143x
+	-"Canada" purchasing power: 10924.236x
+	-"Austria" purchasing power: 10904.289x
+	-"Belgium" purchasing power: 10861.319x
+	-"South Korea" purchasing power: 10359.736x
+	-"Netherlands" purchasing power: 10314.09x
+	-"Iceland" purchasing power: 10279.138x
+	-"Japan" purchasing power: 10277.957x
+	-"United Kingdom" purchasing power: 10221.219x
+	-"Czech Republic" purchasing power: 9855.128x
+	-"Denmark" purchasing power: 9587.445x
+	-"Slovenia" purchasing power: 9405.986x
+	-"Ireland" purchasing power: 9350.704x
+	-"Hungary" purchasing power: 8932.857x
+	-"Slovakia" purchasing power: 8753.529x
+	-"New Zealand" purchasing power: 8753.172x
+	-"Finland" purchasing power: 6858.065x
+	-"Sweden" purchasing power: 6826.143x
+	-"Norway" purchasing power: 6591.784x
+	-"Italy" purchasing power: 6444.423x
+	-"Poland" purchasing power: 6276.168x
+	-"France" purchasing power: 6218.475x
+	-"Chile" purchasing power: 5772.446x
+	-"Mexico" purchasing power: 5508.333x
+	-"Latvia" purchasing power: 5426.761x
+	-"Israel" purchasing power: 5218.966x
+	-"Greece" purchasing power: 4910.05x
+	-"Lithuania" purchasing power: 4461.95x
+	-"Estonia" purchasing power: 4281.156x
+5.Cappuccino (regular) :
+	-"Italy" purchasing power: 21665.132x
+	-"Iceland" purchasing power: 20699.087x
+	-"Luxembourg" purchasing power: 20606.322x
+	-"Australia" purchasing power: 20203.279x
+	-"Switzerland" purchasing power: 19040.821x
+	-"Spain" purchasing power: 17673.184x
+	-"Slovenia" purchasing power: 17123.718x
+	-"Netherlands" purchasing power: 17112.013x
+	-"Canada" purchasing power: 16036.218x
+	-"New Zealand" purchasing power: 15639.0x
+	-"Belgium" purchasing power: 15589.59x
+	-"Ireland" purchasing power: 15439.535x
+	-"United States" purchasing power: 14915.764x
+	-"Germany" purchasing power: 14675.248x
+	-"France" purchasing power: 14279.461x
+	-"Austria" purchasing power: 13921.037x
+	-"Norway" purchasing power: 13705.417x
+	-"United Kingdom" purchasing power: 13556.886x
+	-"Portugal" purchasing power: 12979.73x
+	-"Sweden" purchasing power: 12641.005x
+	-"Israel" purchasing power: 12247.977x
+	-"Finland" purchasing power: 12243.979x
+	-"Denmark" purchasing power: 11984.307x
+	-"Japan" purchasing power: 10333.514x
+	-"Hungary" purchasing power: 8624.828x
+	-"South Korea" purchasing power: 8048.718x
+	-"Czech Republic" purchasing power: 7843.878x
+	-"Slovakia" purchasing power: 7791.099x
+	-"Chile" purchasing power: 7283.203x
+	-"Latvia" purchasing power: 6265.041x
+	-"Lithuania" purchasing power: 6196.07x
+	-"Poland" purchasing power: 6189.401x
+	-"Greece" purchasing power: 5886.145x
+	-"Estonia" purchasing power: 5875.517x
+	-"Mexico" purchasing power: 4253.96x
+6.Coke/Pepsi (0.33 liter bottle) :
+	-"Iceland" purchasing power: 38254.008x
+	-"United States" purchasing power: 33643.333x
+	-"Canada" purchasing power: 30695.092x
+	-"Japan" purchasing power: 30105.512x
+	-"United Kingdom" purchasing power: 29025.641x
+	-"Ireland" purchasing power: 28101.587x
+	-"Australia" purchasing power: 26791.304x
+	-"Sweden" purchasing power: 23538.424x
+	-"Luxembourg" purchasing power: 23282.468x
+	-"New Zealand" purchasing power: 22235.545x
+	-"Switzerland" purchasing power: 21875.682x
+	-"South Korea" purchasing power: 21353.741x
+	-"Netherlands" purchasing power: 20750.0x
+	-"Denmark" purchasing power: 19487.834x
+	-"Belgium" purchasing power: 19456.299x
+	-"Norway" purchasing power: 18958.501x
+	-"Israel" purchasing power: 17657.5x
+	-"Finland" purchasing power: 17649.811x
+	-"Germany" purchasing power: 17234.884x
+	-"Spain" purchasing power: 16391.192x
+	-"Chile" purchasing power: 15935.897x
+	-"France" purchasing power: 15883.895x
+	-"Austria" purchasing power: 15786.275x
+	-"Italy" purchasing power: 14194.397x
+	-"Latvia" purchasing power: 13638.938x
+	-"Portugal" purchasing power: 13528.169x
+	-"Poland" purchasing power: 12914.423x
+	-"Mexico" purchasing power: 12275.714x
+	-"Czech Republic" purchasing power: 12105.512x
+	-"Hungary" purchasing power: 11687.85x
+	-"Slovenia" purchasing power: 11665.066x
+	-"Greece" purchasing power: 11103.409x
+	-"Slovakia" purchasing power: 10406.294x
+	-"Estonia" purchasing power: 9626.554x
+	-"Lithuania" purchasing power: 9037.58x
+7.Water (0.33 liter bottle)  :
+	-"Iceland" purchasing power: 46493.333x
+	-"South Korea" purchasing power: 43000.0x
+	-"United States" purchasing power: 41764.138x
+	-"United Kingdom" purchasing power: 39373.913x
+	-"Japan" purchasing power: 38234.0x
+	-"Canada" purchasing power: 37061.481x
+	-"Ireland" purchasing power: 35173.51x
+	-"Greece" purchasing power: 34284.211x
+	-"Australia" purchasing power: 32093.75x
+	-"Italy" purchasing power: 29142.478x
+	-"Sweden" purchasing power: 26546.111x
+	-"New Zealand" purchasing power: 25920.994x
+	-"Denmark" purchasing power: 25855.906x
+	-"Switzerland" purchasing power: 25853.079x
+	-"Finland" purchasing power: 24878.723x
+	-"Netherlands" purchasing power: 24860.849x
+	-"Spain" purchasing power: 24148.855x
+	-"Luxembourg" purchasing power: 23983.278x
+	-"France" purchasing power: 23692.737x
+	-"Norway" purchasing power: 23411.388x
+	-"Israel" purchasing power: 22187.435x
+	-"Belgium" purchasing power: 21393.506x
+	-"Germany" purchasing power: 20778.505x
+	-"Austria" purchasing power: 20127.5x
+	-"Latvia" purchasing power: 19265.0x
+	-"Chile" purchasing power: 19025.51x
+	-"Portugal" purchasing power: 18833.333x
+	-"Slovenia" purchasing power: 16489.506x
+	-"Hungary" purchasing power: 16241.558x
+	-"Czech Republic" purchasing power: 16014.583x
+	-"Mexico" purchasing power: 15912.963x
+	-"Poland" purchasing power: 15801.176x
+	-"Slovakia" purchasing power: 13528.182x
+	-"Estonia" purchasing power: 12528.676x
+	-"Lithuania" purchasing power: 11923.529x
+8.Milk (regular), (1 liter) :
+	-"United States" purchasing power: 73851.22x
+	-"Iceland" purchasing power: 73114.516x
+	-"Australia" purchasing power: 59825.243x
+	-"Germany" purchasing power: 55582.5x
+	-"Switzerland" purchasing power: 54085.276x
+	-"Netherlands" purchasing power: 52183.168x
+	-"Denmark" purchasing power: 51307.812x
+	-"Ireland" purchasing power: 47848.649x
+	-"Luxembourg" purchasing power: 46869.281x
+	-"Belgium" purchasing power: 44521.622x
+	-"Finland" purchasing power: 44124.528x
+	-"Sweden" purchasing power: 39490.083x
+	-"United Kingdom" purchasing power: 39373.913x
+	-"Austria" purchasing power: 39273.171x
+	-"France" purchasing power: 39268.519x
+	-"Spain" purchasing power: 36362.069x
+	-"Norway" purchasing power: 31627.885x
+	-"Canada" purchasing power: 28108.427x
+	-"Portugal" purchasing power: 27056.338x
+	-"Israel" purchasing power: 26652.83x
+	-"New Zealand" purchasing power: 26357.865x
+	-"Slovenia" purchasing power: 26189.216x
+	-"Italy" purchasing power: 25929.921x
+	-"Japan" purchasing power: 22359.064x
+	-"Poland" purchasing power: 20985.938x
+	-"Estonia" purchasing power: 20528.916x
+	-"Czech Republic" purchasing power: 18980.247x
+	-"Slovakia" purchasing power: 18601.25x
+	-"Chile" purchasing power: 16073.276x
+	-"Hungary" purchasing power: 16033.333x
+	-"Latvia" purchasing power: 15259.406x
+	-"South Korea" purchasing power: 15019.139x
+	-"Greece" purchasing power: 14693.233x
+	-"Lithuania" purchasing power: 14478.571x
+	-"Mexico" purchasing power: 9340.217x
+9.Loaf of Fresh White Bread (500g) :
+	-"Netherlands" purchasing power: 40232.824x
+	-"United Kingdom" purchasing power: 36224.0x
+	-"Australia" purchasing power: 33672.131x
+	-"Iceland" purchasing power: 32264.057x
+	-"Switzerland" purchasing power: 32174.818x
+	-"Ireland" purchasing power: 31995.181x
+	-"New Zealand" purchasing power: 31278.0x
+	-"Germany" purchasing power: 30248.98x
+	-"Luxembourg" purchasing power: 29755.187x
+	-"France" purchasing power: 29047.945x
+	-"Spain" purchasing power: 28759.091x
+	-"Belgium" purchasing power: 25873.822x
+	-"Denmark" purchasing power: 25066.412x
+	-"Austria" purchasing power: 23336.232x
+	-"United States" purchasing power: 23291.538x
+	-"Canada" purchasing power: 23163.426x
+	-"Finland" purchasing power: 22704.854x
+	-"Israel" purchasing power: 21844.33x
+	-"Slovenia" purchasing power: 21542.742x
+	-"Norway" purchasing power: 21428.664x
+	-"Japan" purchasing power: 21241.111x
+	-"Estonia" purchasing power: 21035.802x
+	-"Sweden" purchasing power: 20507.725x
+	-"Greece" purchasing power: 19348.515x
+	-"Italy" purchasing power: 18710.795x
+	-"Poland" purchasing power: 18150.0x
+	-"Hungary" purchasing power: 17131.507x
+	-"Latvia" purchasing power: 16572.043x
+	-"Portugal" purchasing power: 15246.032x
+	-"Czech Republic" purchasing power: 15221.782x
+	-"Slovakia" purchasing power: 15031.313x
+	-"Chile" purchasing power: 14125.0x
+	-"South Korea" purchasing power: 12657.258x
+	-"Lithuania" purchasing power: 12338.261x
+	-"Mexico" purchasing power: 5845.578x
+10.Rice (white), (1kg) :
+	-"Luxembourg" purchasing power: 39401.099x
+	-"United Kingdom" purchasing power: 39034.483x
+	-"Iceland" purchasing power: 34870.0x
+	-"Australia" purchasing power: 33308.108x
+	-"Denmark" purchasing power: 31125.118x
+	-"Switzerland" purchasing power: 30295.189x
+	-"Spain" purchasing power: 29291.667x
+	-"Ireland" purchasing power: 29182.418x
+	-"Netherlands" purchasing power: 26352.5x
+	-"New Zealand" purchasing power: 26065.0x
+	-"Finland" purchasing power: 24234.197x
+	-"Austria" purchasing power: 24032.836x
+	-"France" purchasing power: 23302.198x
+	-"Belgium" purchasing power: 22879.167x
+	-"Norway" purchasing power: 22150.168x
+	-"Portugal" purchasing power: 19210.0x
+	-"Germany" purchasing power: 18683.193x
+	-"Sweden" purchasing power: 18665.234x
+	-"Israel" purchasing power: 18505.677x
+	-"Canada" purchasing power: 16458.224x
+	-"United States" purchasing power: 15648.062x
+	-"Poland" purchasing power: 15617.442x
+	-"Italy" purchasing power: 14968.636x
+	-"Slovenia" purchasing power: 14517.935x
+	-"Chile" purchasing power: 13609.489x
+	-"Estonia" purchasing power: 12437.226x
+	-"Hungary" purchasing power: 12260.784x
+	-"Slovakia" purchasing power: 12197.541x
+	-"Greece" purchasing power: 10978.652x
+	-"Latvia" purchasing power: 10702.778x
+	-"Czech Republic" purchasing power: 9730.38x
+	-"Lithuania" purchasing power: 9037.58x
+	-"Mexico" purchasing power: 8951.042x
+	-"South Korea" purchasing power: 8671.271x
+	-"Japan" purchasing power: 8496.444x
+11.Eggs (regular) (12) :
+	-"United States" purchasing power: 26677.533x
+	-"Finland" purchasing power: 22486.538x
+	-"Germany" purchasing power: 21275.598x
+	-"Australia" purchasing power: 20540.0x
+	-"Netherlands" purchasing power: 20116.412x
+	-"Canada" purchasing power: 19775.889x
+	-"United Kingdom" purchasing power: 19268.085x
+	-"Denmark" purchasing power: 18657.386x
+	-"Japan" purchasing power: 18470.531x
+	-"Iceland" purchasing power: 18389.858x
+	-"Luxembourg" purchasing power: 18200.508x
+	-"Ireland" purchasing power: 17763.211x
+	-"Belgium" purchasing power: 17159.375x
+	-"Spain" purchasing power: 17100.0x
+	-"Sweden" purchasing power: 16364.041x
+	-"Switzerland" purchasing power: 15631.028x
+	-"Norway" purchasing power: 15263.573x
+	-"New Zealand" purchasing power: 14615.888x
+	-"Austria" purchasing power: 14419.701x
+	-"France" purchasing power: 14279.461x
+	-"Israel" purchasing power: 12177.586x
+	-"Slovenia" purchasing power: 11130.417x
+	-"Italy" purchasing power: 11087.879x
+	-"Estonia" purchasing power: 10922.436x
+	-"South Korea" purchasing power: 10786.942x
+	-"Portugal" purchasing power: 10005.208x
+	-"Latvia" purchasing power: 8376.087x
+	-"Czech Republic" purchasing power: 8177.66x
+	-"Lithuania" purchasing power: 8154.598x
+	-"Hungary" purchasing power: 7228.902x
+	-"Slovakia" purchasing power: 6921.395x
+	-"Chile" purchasing power: 6854.779x
+	-"Poland" purchasing power: 6715.5x
+	-"Mexico" purchasing power: 6226.812x
+	-"Greece" purchasing power: 5850.898x
+12.Local Cheese (1kg) :
+	-"Australia" purchasing power: 9734.597x
+	-"New Zealand" purchasing power: 7195.859x
+	-"Finland" purchasing power: 6818.076x
+	-"United Kingdom" purchasing power: 6581.395x
+	-"Iceland" purchasing power: 6564.953x
+	-"Ireland" purchasing power: 5875.221x
+	-"United States" purchasing power: 5783.954x
+	-"Denmark" purchasing power: 5725.719x
+	-"Norway" purchasing power: 5418.946x
+	-"Sweden" purchasing power: 5262.445x
+	-"Canada" purchasing power: 5158.041x
+	-"Netherlands" purchasing power: 4531.814x
+	-"Germany" purchasing power: 4398.22x
+	-"Austria" purchasing power: 3839.905x
+	-"Belgium" purchasing power: 3769.565x
+	-"Switzerland" purchasing power: 3693.297x
+	-"Luxembourg" purchasing power: 3590.886x
+	-"Israel" purchasing power: 3456.607x
+	-"Spain" purchasing power: 3080.331x
+	-"Slovenia" purchasing power: 2524.858x
+	-"France" purchasing power: 2497.644x
+	-"Italy" purchasing power: 2396.725x
+	-"Japan" purchasing power: 2341.335x
+	-"Portugal" purchasing power: 2336.983x
+	-"Latvia" purchasing power: 2227.168x
+	-"Estonia" purchasing power: 2218.62x
+	-"Greece" purchasing power: 2188.354x
+	-"Poland" purchasing power: 2180.357x
+	-"Hungary" purchasing power: 2119.661x
+	-"South Korea" purchasing power: 2078.808x
+	-"Chile" purchasing power: 2006.997x
+	-"Czech Republic" purchasing power: 1843.405x
+	-"Slovakia" purchasing power: 1814.756x
+	-"Lithuania" purchasing power: 1740.982x
+	-"Mexico" purchasing power: 1728.974x
+13.Chicken Breasts (Boneless, Skinless), (1kg) :
+	-"Australia" purchasing power: 8429.549x
+	-"Denmark" purchasing power: 7177.486x
+	-"United States" purchasing power: 7149.705x
+	-"United Kingdom" purchasing power: 6228.336x
+	-"Ireland" purchasing power: 5868.729x
+	-"Iceland" purchasing power: 5712.791x
+	-"Luxembourg" purchasing power: 5677.751x
+	-"New Zealand" purchasing power: 5618.802x
+	-"Netherlands" purchasing power: 5478.69x
+	-"Japan" purchasing power: 5339.944x
+	-"Germany" purchasing power: 5331.655x
+	-"Canada" purchasing power: 4919.666x
+	-"Belgium" purchasing power: 4873.669x
+	-"Norway" purchasing power: 4787.918x
+	-"Sweden" purchasing power: 4783.083x
+	-"Spain" purchasing power: 4742.879x
+	-"Israel" purchasing power: 4532.406x
+	-"Finland" purchasing power: 4404.143x
+	-"Austria" purchasing power: 4062.742x
+	-"Chile" purchasing power: 3558.206x
+	-"France" purchasing power: 3557.886x
+	-"Italy" purchasing power: 3507.029x
+	-"South Korea" purchasing power: 3430.601x
+	-"Slovenia" purchasing power: 3420.359x
+	-"Switzerland" purchasing power: 3394.648x
+	-"Poland" purchasing power: 3160.235x
+	-"Portugal" purchasing power: 3159.539x
+	-"Estonia" purchasing power: 2844.574x
+	-"Slovakia" purchasing power: 2700.726x
+	-"Latvia" purchasing power: 2694.406x
+	-"Greece" purchasing power: 2658.776x
+	-"Lithuania" purchasing power: 2642.272x
+	-"Hungary" purchasing power: 2552.245x
+	-"Czech Republic" purchasing power: 2428.752x
+	-"Mexico" purchasing power: 1888.571x
+14.Beef Round (1kg) (or Equivalent Back Leg Red Meat) :
+	-"Australia" purchasing power: 5829.707x
+	-"United States" purchasing power: 5293.531x
+	-"Ireland" purchasing power: 5181.659x
+	-"Denmark" purchasing power: 4893.741x
+	-"United Kingdom" purchasing power: 4771.338x
+	-"Canada" purchasing power: 4427.699x
+	-"New Zealand" purchasing power: 4041.085x
+	-"Iceland" purchasing power: 3807.728x
+	-"Luxembourg" purchasing power: 3594.486x
+	-"Germany" purchasing power: 3529.048x
+	-"Finland" purchasing power: 3248.056x
+	-"Sweden" purchasing power: 3211.223x
+	-"Belgium" purchasing power: 3171.951x
+	-"Netherlands" purchasing power: 3030.765x
+	-"Spain" purchasing power: 2690.051x
+	-"Slovenia" purchasing power: 2652.731x
+	-"Austria" purchasing power: 2442.164x
+	-"Norway" purchasing power: 2407.098x
+	-"France" purchasing power: 2382.584x
+	-"Israel" purchasing power: 2299.403x
+	-"Chile" purchasing power: 2013.499x
+	-"Estonia" purchasing power: 2002.233x
+	-"Latvia" purchasing power: 1945.96x
+	-"Greece" purchasing power: 1925.32x
+	-"Italy" purchasing power: 1917.938x
+	-"Portugal" purchasing power: 1764.004x
+	-"Japan" purchasing power: 1761.124x
+	-"Switzerland" purchasing power: 1757.906x
+	-"Slovakia" purchasing power: 1752.768x
+	-"Lithuania" purchasing power: 1671.26x
+	-"Czech Republic" purchasing power: 1535.864x
+	-"Poland" purchasing power: 1534.971x
+	-"Hungary" purchasing power: 1487.039x
+	-"South Korea" purchasing power: 1368.949x
+	-"Mexico" purchasing power: 1269.276x
+15.Apples (1kg) :
+	-"Iceland" purchasing power: 39247.619x
+	-"Luxembourg" purchasing power: 28232.283x
+	-"Ireland" purchasing power: 23397.357x
+	-"Netherlands" purchasing power: 23116.228x
+	-"Denmark" purchasing power: 22962.937x
+	-"Switzerland" purchasing power: 21554.768x
+	-"Australia" purchasing power: 21030.717x
+	-"Finland" purchasing power: 20787.556x
+	-"Norway" purchasing power: 20430.435x
+	-"Belgium" purchasing power: 20253.689x
+	-"United Kingdom" purchasing power: 19859.649x
+	-"New Zealand" purchasing power: 19713.025x
+	-"Austria" purchasing power: 18367.3x
+	-"Slovenia" purchasing power: 17928.188x
+	-"Sweden" purchasing power: 17829.478x
+	-"Germany" purchasing power: 17715.538x
+	-"Poland" purchasing power: 17442.857x
+	-"Estonia" purchasing power: 17039.0x
+	-"Spain" purchasing power: 16917.112x
+	-"Canada" purchasing power: 16458.224x
+	-"Israel" purchasing power: 16052.273x
+	-"Italy" purchasing power: 15908.696x
+	-"Lithuania" purchasing power: 15422.826x
+	-"France" purchasing power: 15310.469x
+	-"United States" purchasing power: 13700.905x
+	-"Latvia" purchasing power: 12951.261x
+	-"Greece" purchasing power: 12607.742x
+	-"Chile" purchasing power: 12266.447x
+	-"Hungary" purchasing power: 11369.091x
+	-"Czech Republic" purchasing power: 11221.898x
+	-"Portugal" purchasing power: 10853.107x
+	-"Slovakia" purchasing power: 8857.738x
+	-"Japan" purchasing power: 5533.14x
+	-"South Korea" purchasing power: 5087.52x
+	-"Mexico" purchasing power: 4339.899x
+16.Banana (1kg) :
+	-"Iceland" purchasing power: 45788.889x
+	-"United States" purchasing power: 40104.636x
+	-"Canada" purchasing power: 38486.923x
+	-"Luxembourg" purchasing power: 38347.594x
+	-"United Kingdom" purchasing power: 33540.741x
+	-"Switzerland" purchasing power: 29386.333x
+	-"Ireland" purchasing power: 28251.064x
+	-"Finland" purchasing power: 27035.838x
+	-"Australia" purchasing power: 25890.756x
+	-"Netherlands" purchasing power: 25461.353x
+	-"Germany" purchasing power: 25122.034x
+	-"Belgium" purchasing power: 25085.787x
+	-"Denmark" purchasing power: 24971.103x
+	-"New Zealand" purchasing power: 23937.245x
+	-"Austria" purchasing power: 23796.059x
+	-"Norway" purchasing power: 23749.458x
+	-"Sweden" purchasing power: 20865.939x
+	-"Slovenia" purchasing power: 19498.54x
+	-"France" purchasing power: 19454.128x
+	-"Israel" purchasing power: 18918.75x
+	-"Spain" purchasing power: 18608.824x
+	-"Italy" purchasing power: 17062.694x
+	-"Chile" purchasing power: 15935.897x
+	-"Portugal" purchasing power: 15368.0x
+	-"Estonia" purchasing power: 14199.167x
+	-"Japan" purchasing power: 13462.676x
+	-"Lithuania" purchasing power: 12338.261x
+	-"Greece" purchasing power: 11843.636x
+	-"Poland" purchasing power: 11679.13x
+	-"Czech Republic" purchasing power: 11473.134x
+	-"Latvia" purchasing power: 10274.667x
+	-"Mexico" purchasing power: 9655.056x
+	-"Slovakia" purchasing power: 8910.778x
+	-"Hungary" purchasing power: 8745.455x
+	-"South Korea" purchasing power: 8111.111x
+17.Oranges (1kg) :
+	-"Iceland" purchasing power: 37463.636x
+	-"Netherlands" purchasing power: 30821.637x
+	-"Luxembourg" purchasing power: 27162.879x
+	-"Israel" purchasing power: 26159.259x
+	-"Switzerland" purchasing power: 24353.315x
+	-"Finland" purchasing power: 23742.132x
+	-"Australia" purchasing power: 23700.0x
+	-"Ireland" purchasing power: 22992.208x
+	-"Norway" purchasing power: 22606.873x
+	-"Spain" purchasing power: 22278.169x
+	-"Denmark" purchasing power: 21532.459x
+	-"United Kingdom" purchasing power: 21358.491x
+	-"Belgium" purchasing power: 19846.988x
+	-"New Zealand" purchasing power: 18766.8x
+	-"Sweden" purchasing power: 18738.431x
+	-"Germany" purchasing power: 18298.765x
+	-"Greece" purchasing power: 18094.444x
+	-"Austria" purchasing power: 17629.927x
+	-"Italy" purchasing power: 17062.694x
+	-"Slovenia" purchasing power: 16695.625x
+	-"Canada" purchasing power: 16350.654x
+	-"France" purchasing power: 16311.538x
+	-"United States" purchasing power: 15139.5x
+	-"Portugal" purchasing power: 14553.03x
+	-"Chile" purchasing power: 14018.797x
+	-"Poland" purchasing power: 11009.016x
+	-"Estonia" purchasing power: 10922.436x
+	-"Mexico" purchasing power: 10608.642x
+	-"Czech Republic" purchasing power: 10048.366x
+	-"Lithuania" purchasing power: 9992.254x
+	-"Hungary" purchasing power: 9770.312x
+	-"Latvia" purchasing power: 9397.561x
+	-"Slovakia" purchasing power: 8805.325x
+	-"Japan" purchasing power: 7467.578x
+	-"South Korea" purchasing power: 5990.458x
+18.Tomato (1kg) :
+	-"Luxembourg" purchasing power: 37941.799x
+	-"Israel" purchasing power: 29634.965x
+	-"Iceland" purchasing power: 23795.801x
+	-"Switzerland" purchasing power: 21294.444x
+	-"United Kingdom" purchasing power: 20581.818x
+	-"Denmark" purchasing power: 20395.652x
+	-"Belgium" purchasing power: 20171.02x
+	-"Austria" purchasing power: 19245.418x
+	-"Ireland" purchasing power: 18441.667x
+	-"Spain" purchasing power: 18286.127x
+	-"Netherlands" purchasing power: 18049.658x
+	-"Australia" purchasing power: 17357.746x
+	-"Norway" purchasing power: 17131.771x
+	-"Canada" purchasing power: 16733.445x
+	-"Sweden" purchasing power: 15874.751x
+	-"Germany" purchasing power: 15712.367x
+	-"United States" purchasing power: 15253.904x
+	-"Italy" purchasing power: 15175.576x
+	-"France" purchasing power: 14933.099x
+	-"Finland" purchasing power: 14662.069x
+	-"New Zealand" purchasing power: 13758.651x
+	-"Greece" purchasing power: 13115.436x
+	-"Slovenia" purchasing power: 13030.732x
+	-"Chile" purchasing power: 12683.673x
+	-"Portugal" purchasing power: 12235.669x
+	-"Lithuania" purchasing power: 9459.333x
+	-"Poland" purchasing power: 9392.308x
+	-"Mexico" purchasing power: 8424.51x
+	-"Estonia" purchasing power: 8271.359x
+	-"Latvia" purchasing power: 8154.497x
+	-"Czech Republic" purchasing power: 8049.215x
+	-"Slovakia" purchasing power: 6953.738x
+	-"Hungary" purchasing power: 6947.778x
+	-"Japan" purchasing power: 6791.119x
+	-"South Korea" purchasing power: 5900.376x
+19.Potato (1kg) :
+	-"Finland" purchasing power: 48218.557x
+	-"Luxembourg" purchasing power: 43198.795x
+	-"Sweden" purchasing power: 43047.748x
+	-"Iceland" purchasing power: 42765.094x
+	-"Germany" purchasing power: 40059.459x
+	-"Estonia" purchasing power: 37041.304x
+	-"Israel" purchasing power: 36850.435x
+	-"Denmark" purchasing power: 36283.978x
+	-"Netherlands" purchasing power: 34903.974x
+	-"Ireland" purchasing power: 34488.312x
+	-"Slovenia" purchasing power: 33813.924x
+	-"Lithuania" purchasing power: 33783.333x
+	-"Switzerland" purchasing power: 31826.354x
+	-"Belgium" purchasing power: 31477.07x
+	-"United Kingdom" purchasing power: 31013.699x
+	-"Latvia" purchasing power: 29638.462x
+	-"Austria" purchasing power: 29100.0x
+	-"Spain" purchasing power: 28500.0x
+	-"Norway" purchasing power: 28356.034x
+	-"Australia" purchasing power: 27508.929x
+	-"Poland" purchasing power: 26335.294x
+	-"Canada" purchasing power: 24768.812x
+	-"United States" purchasing power: 24126.693x
+	-"Italy" purchasing power: 23863.043x
+	-"France" purchasing power: 23302.198x
+	-"New Zealand" purchasing power: 22998.529x
+	-"Greece" purchasing power: 21241.304x
+	-"Portugal" purchasing power: 20436.17x
+	-"Czech Republic" purchasing power: 19966.234x
+	-"Chile" purchasing power: 18279.412x
+	-"Hungary" purchasing power: 16455.263x
+	-"Slovakia" purchasing power: 16175.0x
+	-"Japan" purchasing power: 10222.995x
+	-"South Korea" purchasing power: 8623.626x
+	-"Mexico" purchasing power: 7811.818x
+20.Onion (1kg) :
+	-"Iceland" purchasing power: 53646.154x
+	-"Denmark" purchasing power: 45925.874x
+	-"Ireland" purchasing power: 44631.933x
+	-"Israel" purchasing power: 44608.421x
+	-"Sweden" purchasing power: 39166.393x
+	-"Lithuania" purchasing power: 38348.649x
+	-"United Kingdom" purchasing power: 37733.333x
+	-"Netherlands" purchasing power: 35611.486x
+	-"Germany" purchasing power: 35012.598x
+	-"Australia" purchasing power: 34617.978x
+	-"Switzerland" purchasing power: 34572.157x
+	-"Belgium" purchasing power: 33618.367x
+	-"Finland" purchasing power: 33171.631x
+	-"Estonia" purchasing power: 32149.057x
+	-"Austria" purchasing power: 31780.263x
+	-"Latvia" purchasing power: 29638.462x
+	-"Luxembourg" purchasing power: 28684.0x
+	-"New Zealand" purchasing power: 28094.012x
+	-"Slovenia" purchasing power: 27826.042x
+	-"Spain" purchasing power: 26809.322x
+	-"Norway" purchasing power: 26526.613x
+	-"Canada" purchasing power: 25142.211x
+	-"United States" purchasing power: 24223.2x
+	-"Greece" purchasing power: 22723.256x
+	-"Italy" purchasing power: 22555.479x
+	-"Poland" purchasing power: 21662.903x
+	-"France" purchasing power: 21527.919x
+	-"Czech Republic" purchasing power: 21060.274x
+	-"Slovakia" purchasing power: 18371.605x
+	-"Portugal" purchasing power: 18122.642x
+	-"Hungary" purchasing power: 15830.38x
+	-"Chile" purchasing power: 15409.091x
+	-"Japan" purchasing power: 12293.891x
+	-"South Korea" purchasing power: 11052.817x
+	-"Mexico" purchasing power: 8342.718x
+21.Lettuce (1 head) :
+	-"Luxembourg" purchasing power: 60771.186x
+	-"Ireland" purchasing power: 50105.66x
+	-"United Kingdom" purchasing power: 48688.172x
+	-"Netherlands" purchasing power: 47058.036x
+	-"Germany" purchasing power: 42348.571x
+	-"United States" purchasing power: 39580.392x
+	-"Denmark" purchasing power: 39325.749x
+	-"Iceland" purchasing power: 39078.448x
+	-"Switzerland" purchasing power: 37674.786x
+	-"Belgium" purchasing power: 37157.143x
+	-"Australia" purchasing power: 34813.559x
+	-"France" purchasing power: 33658.73x
+	-"Austria" purchasing power: 33086.301x
+	-"Spain" purchasing power: 30418.269x
+	-"Israel" purchasing power: 29026.027x
+	-"Canada" purchasing power: 27191.848x
+	-"Norway" purchasing power: 27184.298x
+	-"Italy" purchasing power: 26557.258x
+	-"Greece" purchasing power: 25379.221x
+	-"New Zealand" purchasing power: 25360.541x
+	-"Sweden" purchasing power: 24504.103x
+	-"Finland" purchasing power: 23985.641x
+	-"Slovenia" purchasing power: 22076.86x
+	-"Japan" purchasing power: 20779.348x
+	-"Portugal" purchasing power: 19404.04x
+	-"Poland" purchasing power: 17442.857x
+	-"Chile" purchasing power: 16950.0x
+	-"Czech Republic" purchasing power: 15529.293x
+	-"Hungary" purchasing power: 14541.86x
+	-"Estonia" purchasing power: 14081.818x
+	-"South Korea" purchasing power: 14076.233x
+	-"Slovakia" purchasing power: 14038.679x
+	-"Lithuania" purchasing power: 13260.748x
+	-"Latvia" purchasing power: 12737.19x
+	-"Mexico" purchasing power: 11306.579x
+22.Water (1.5 liter bottle) :
+	-"Germany" purchasing power: 114015.385x
+	-"Italy" purchasing power: 73180.0x
+	-"Luxembourg" purchasing power: 72434.343x
+	-"Austria" purchasing power: 69008.571x
+	-"Switzerland" purchasing power: 67296.947x
+	-"France" purchasing power: 63298.507x
+	-"Netherlands" purchasing power: 58561.111x
+	-"Iceland" purchasing power: 53018.713x
+	-"Belgium" purchasing power: 49419.0x
+	-"Spain" purchasing power: 47216.418x
+	-"Australia" purchasing power: 47038.168x
+	-"Denmark" purchasing power: 44982.192x
+	-"New Zealand" purchasing power: 39097.5x
+	-"Ireland" purchasing power: 37141.259x
+	-"United Kingdom" purchasing power: 37114.754x
+	-"Israel" purchasing power: 35611.765x
+	-"Slovenia" purchasing power: 35148.684x
+	-"United States" purchasing power: 34407.955x
+	-"Hungary" purchasing power: 33800.0x
+	-"Japan" purchasing power: 32401.695x
+	-"Sweden" purchasing power: 31436.184x
+	-"Finland" purchasing power: 30974.834x
+	-"Portugal" purchasing power: 30015.625x
+	-"Canada" purchasing power: 29088.953x
+	-"Czech Republic" purchasing power: 27453.571x
+	-"Poland" purchasing power: 27410.204x
+	-"South Korea" purchasing power: 27060.345x
+	-"Norway" purchasing power: 26314.4x
+	-"Estonia" purchasing power: 24341.429x
+	-"Latvia" purchasing power: 23351.515x
+	-"Greece" purchasing power: 21957.303x
+	-"Slovakia" purchasing power: 21883.824x
+	-"Lithuania" purchasing power: 18669.737x
+	-"Chile" purchasing power: 14566.406x
+	-"Mexico" purchasing power: 11612.162x
+23.Bottle of Wine (Mid-Range) :
+	-"Netherlands" purchasing power: 9279.049x
+	-"Luxembourg" purchasing power: 8416.667x
+	-"Germany" purchasing power: 7842.328x
+	-"Denmark" purchasing power: 7193.209x
+	-"Switzerland" purchasing power: 7167.398x
+	-"France" purchasing power: 6218.475x
+	-"Belgium" purchasing power: 6216.226x
+	-"Austria" purchasing power: 6122.433x
+	-"Australia" purchasing power: 5862.988x
+	-"Italy" purchasing power: 5797.711x
+	-"Spain" purchasing power: 5569.542x
+	-"United Kingdom" purchasing power: 5104.848x
+	-"United States" purchasing power: 5046.5x
+	-"Sweden" purchasing power: 4926.082x
+	-"Slovenia" purchasing power: 4702.993x
+	-"Ireland" purchasing power: 4675.352x
+	-"New Zealand" purchasing power: 4668.358x
+	-"Iceland" purchasing power: 4521.796x
+	-"Canada" purchasing power: 4369.694x
+	-"Portugal" purchasing power: 4221.978x
+	-"Israel" purchasing power: 3783.75x
+	-"Norway" purchasing power: 3735.718x
+	-"Finland" purchasing power: 3429.032x
+	-"Chile" purchasing power: 3176.32x
+	-"Slovakia" purchasing power: 3152.754x
+	-"Japan" purchasing power: 2938.816x
+	-"Czech Republic" purchasing power: 2868.284x
+	-"Hungary" purchasing power: 2760.706x
+	-"Poland" purchasing power: 2510.467x
+	-"Greece" purchasing power: 2458.113x
+	-"Latvia" purchasing power: 2259.824x
+	-"Estonia" purchasing power: 2143.27x
+	-"South Korea" purchasing power: 2113.805x
+	-"Lithuania" purchasing power: 1784.78x
+	-"Mexico" purchasing power: 1098.849x
+24.Domestic Beer (0.5 liter bottle) :
+	-"Germany" purchasing power: 51110.345x
+	-"Switzerland" purchasing power: 48977.222x
+	-"Austria" purchasing power: 41287.179x
+	-"Netherlands" purchasing power: 39928.03x
+	-"Belgium" purchasing power: 38608.594x
+	-"Spain" purchasing power: 37217.647x
+	-"Denmark" purchasing power: 35499.459x
+	-"Luxembourg" purchasing power: 34980.488x
+	-"Iceland" purchasing power: 33331.618x
+	-"United States" purchasing power: 29397.087x
+	-"Sweden" purchasing power: 27780.814x
+	-"Canada" purchasing power: 25016.5x
+	-"Italy" purchasing power: 23522.143x
+	-"France" purchasing power: 23430.939x
+	-"Slovenia" purchasing power: 22638.136x
+	-"United Kingdom" purchasing power: 22527.363x
+	-"Czech Republic" purchasing power: 22281.159x
+	-"Ireland" purchasing power: 22038.174x
+	-"Finland" purchasing power: 19569.874x
+	-"Australia" purchasing power: 18901.84x
+	-"Slovakia" purchasing power: 18601.25x
+	-"Israel" purchasing power: 18505.677x
+	-"Portugal" purchasing power: 18471.154x
+	-"Norway" purchasing power: 18172.928x
+	-"Poland" purchasing power: 16788.75x
+	-"South Korea" purchasing power: 16264.249x
+	-"Japan" purchasing power: 15799.174x
+	-"New Zealand" purchasing power: 15282.41x
+	-"Hungary" purchasing power: 15251.22x
+	-"Latvia" purchasing power: 14010.909x
+	-"Greece" purchasing power: 13665.734x
+	-"Chile" purchasing power: 13317.857x
+	-"Lithuania" purchasing power: 11630.328x
+	-"Estonia" purchasing power: 10992.903x
+	-"Mexico" purchasing power: 8768.367x
+25.Cigarettes 20 Pack (Marlboro) :
+	-"Luxembourg" purchasing power: 11911.96x
+	-"Switzerland" purchasing power: 10457.77x
+	-"Denmark" purchasing power: 9587.445x
+	-"Japan" purchasing power: 8669.841x
+	-"United States" purchasing power: 8469.65x
+	-"Austria" purchasing power: 8173.604x
+	-"Iceland" purchasing power: 8131.121x
+	-"South Korea" purchasing power: 8069.409x
+	-"Sweden" purchasing power: 6925.072x
+	-"Netherlands" purchasing power: 6722.577x
+	-"Belgium" purchasing power: 6687.28x
+	-"Germany" purchasing power: 6116.369x
+	-"Slovenia" purchasing power: 5870.989x
+	-"Finland" purchasing power: 5795.787x
+	-"Spain" purchasing power: 5569.542x
+	-"Italy" purchasing power: 5363.355x
+	-"Norway" purchasing power: 4787.918x
+	-"Canada" purchasing power: 4680.355x
+	-"France" purchasing power: 4665.567x
+	-"Israel" purchasing power: 4324.286x
+	-"Ireland" purchasing power: 3893.842x
+	-"Greece" purchasing power: 3824.266x
+	-"Chile" purchasing power: 3634.503x
+	-"United Kingdom" purchasing power: 3573.796x
+	-"Estonia" purchasing power: 3572.117x
+	-"Latvia" purchasing power: 3567.593x
+	-"Lithuania" purchasing power: 3520.844x
+	-"Slovakia" purchasing power: 3444.676x
+	-"Czech Republic" purchasing power: 3439.374x
+	-"Portugal" purchasing power: 3382.042x
+	-"Mexico" purchasing power: 3292.337x
+	-"Poland" purchasing power: 3138.084x
+	-"Australia" purchasing power: 2930.1x
+	-"Hungary" purchasing power: 2848.747x
+	-"New Zealand" purchasing power: 2500.906x
+26.One-way Ticket (Local Transport) :
+	-"Luxembourg" purchasing power: 31590.308x
+	-"South Korea" purchasing power: 29064.815x
+	-"United States" purchasing power: 27526.364x
+	-"Switzerland" purchasing power: 26877.744x
+	-"Israel" purchasing power: 25683.636x
+	-"Iceland" purchasing power: 24569.648x
+	-"France" purchasing power: 23302.198x
+	-"Australia" purchasing power: 22007.143x
+	-"Canada" purchasing power: 21848.472x
+	-"New Zealand" purchasing power: 20050.0x
+	-"Belgium" purchasing power: 20007.692x
+	-"Spain" purchasing power: 19896.226x
+	-"Slovenia" purchasing power: 19641.912x
+	-"Japan" purchasing power: 19607.179x
+	-"Denmark" purchasing power: 19604.179x
+	-"Mexico" purchasing power: 19529.545x
+	-"Italy" purchasing power: 19371.176x
+	-"Ireland" purchasing power: 18701.408x
+	-"Slovakia" purchasing power: 18601.25x
+	-"Chile" purchasing power: 18101.942x
+	-"Austria" purchasing power: 17694.505x
+	-"Poland" purchasing power: 15617.442x
+	-"Norway" purchasing power: 15552.246x
+	-"Netherlands" purchasing power: 15456.012x
+	-"United Kingdom" purchasing power: 14894.737x
+	-"Sweden" purchasing power: 14793.498x
+	-"Germany" purchasing power: 14484.039x
+	-"Czech Republic" purchasing power: 14368.224x
+	-"Finland" purchasing power: 13716.129x
+	-"Lithuania" purchasing power: 12446.491x
+	-"Greece" purchasing power: 12290.566x
+	-"Latvia" purchasing power: 11764.885x
+	-"Portugal" purchasing power: 11300.0x
+	-"Hungary" purchasing power: 10167.48x
+	-"Estonia" purchasing power: 10022.941x
+27.Monthly Pass (Regular Price) :
+	-"Luxembourg" purchasing power: 2524.111x
+	-"Switzerland" purchasing power: 1109.616x
+	-"Denmark" purchasing power: 1092.019x
+	-"Iceland" purchasing power: 919.12x
+	-"Austria" purchasing power: 912.295x
+	-"Belgium" purchasing power: 887.554x
+	-"United States" purchasing power: 865.114x
+	-"Italy" purchasing power: 828.036x
+	-"Finland" purchasing power: 752.445x
+	-"Norway" purchasing power: 747.144x
+	-"France" purchasing power: 731.838x
+	-"Israel" purchasing power: 710.802x
+	-"Canada" purchasing power: 689.825x
+	-"Czech Republic" purchasing power: 688.491x
+	-"South Korea" purchasing power: 659.87x
+	-"Estonia" purchasing power: 651.836x
+	-"Spain" purchasing power: 647.86x
+	-"Slovenia" purchasing power: 635.268x
+	-"United Kingdom" purchasing power: 595.554x
+	-"Australia" purchasing power: 586.076x
+	-"Netherlands" purchasing power: 579.749x
+	-"Greece" purchasing power: 573.247x
+	-"Germany" purchasing power: 559.039x
+	-"Sweden" purchasing power: 554.327x
+	-"Poland" purchasing power: 534.674x
+	-"Slovakia" purchasing power: 503.587x
+	-"Portugal" purchasing power: 483.027x
+	-"Ireland" purchasing power: 467.371x
+	-"New Zealand" purchasing power: 466.929x
+	-"Mexico" purchasing power: 458.049x
+	-"Lithuania" purchasing power: 430.622x
+	-"Japan" purchasing power: 411.561x
+	-"Chile" purchasing power: 389.818x
+	-"Hungary" purchasing power: 375.105x
+	-"Latvia" purchasing power: 271.243x
+28.Taxi Start (Normal Tariff) :
+	-"Chile" purchasing power: 42375.0x
+	-"Slovenia" purchasing power: 23432.456x
+	-"Luxembourg" purchasing power: 21730.303x
+	-"New Zealand" purchasing power: 20050.0x
+	-"Australia" purchasing power: 20006.494x
+	-"United States" purchasing power: 18633.231x
+	-"Canada" purchasing power: 17494.056x
+	-"Iceland" purchasing power: 16394.575x
+	-"Switzerland" purchasing power: 12648.35x
+	-"Israel" purchasing power: 12612.5x
+	-"Lithuania" purchasing power: 12446.491x
+	-"South Korea" purchasing power: 12119.691x
+	-"United Kingdom" purchasing power: 11915.789x
+	-"Ireland" purchasing power: 11672.967x
+	-"Netherlands" purchasing power: 11583.516x
+	-"Germany" purchasing power: 11172.362x
+	-"Belgium" purchasing power: 10861.319x
+	-"Austria" purchasing power: 10616.703x
+	-"Denmark" purchasing power: 9476.768x
+	-"Sweden" purchasing power: 9049.811x
+	-"Spain" purchasing power: 8886.236x
+	-"Czech Republic" purchasing power: 8588.827x
+	-"France" purchasing power: 7466.549x
+	-"Poland" purchasing power: 7182.353x
+	-"Japan" purchasing power: 6864.273x
+	-"Finland" purchasing power: 6858.065x
+	-"Latvia" purchasing power: 6789.427x
+	-"Norway" purchasing power: 6331.665x
+	-"Estonia" purchasing power: 5999.648x
+	-"Italy" purchasing power: 5797.711x
+	-"Mexico" purchasing power: 5508.333x
+	-"Hungary" purchasing power: 5083.74x
+	-"Portugal" purchasing power: 4976.684x
+	-"Greece" purchasing power: 4910.05x
+	-"Slovakia" purchasing power: 4363.93x
+29.Taxi 1km (Normal Tariff) :
+	-"South Korea" purchasing power: 45492.754x
+	-"Australia" purchasing power: 44014.286x
+	-"Israel" purchasing power: 40360.0x
+	-"Norway" purchasing power: 40113.415x
+	-"Ireland" purchasing power: 37668.085x
+	-"Iceland" purchasing power: 37619.087x
+	-"Portugal" purchasing power: 36245.283x
+	-"United States" purchasing power: 35414.035x
+	-"Canada" purchasing power: 34745.139x
+	-"Denmark" purchasing power: 28804.386x
+	-"Sweden" purchasing power: 27780.814x
+	-"Spain" purchasing power: 26362.5x
+	-"Slovenia" purchasing power: 26189.216x
+	-"Finland" purchasing power: 25698.901x
+	-"Estonia" purchasing power: 25057.353x
+	-"France" purchasing power: 24947.059x
+	-"New Zealand" purchasing power: 23576.382x
+	-"Austria" purchasing power: 23563.902x
+	-"Latvia" purchasing power: 22664.706x
+	-"Poland" purchasing power: 22018.033x
+	-"Greece" purchasing power: 21957.303x
+	-"Belgium" purchasing power: 21770.485x
+	-"Switzerland" purchasing power: 21502.195x
+	-"Netherlands" purchasing power: 21252.016x
+	-"Luxembourg" purchasing power: 21029.326x
+	-"Lithuania" purchasing power: 20866.176x
+	-"Germany" purchasing power: 19588.546x
+	-"Italy" purchasing power: 19371.176x
+	-"United Kingdom" purchasing power: 19186.441x
+	-"Slovakia" purchasing power: 17507.059x
+	-"Mexico" purchasing power: 16525.0x
+	-"Czech Republic" purchasing power: 13253.448x
+	-"Chile" purchasing power: 12683.673x
+	-"Hungary" purchasing power: 11910.476x
+	-"Japan" purchasing power: 10035.171x
+30.Taxi 1hour Waiting (Normal Tariff) :
+	-"South Korea" purchasing power: 3024.085x
+	-"United States" purchasing power: 2242.889x
+	-"Luxembourg" purchasing power: 2103.549x
+	-"Canada" purchasing power: 1985.437x
+	-"Ireland" purchasing power: 1947.635x
+	-"United Kingdom" purchasing power: 1786.898x
+	-"Australia" purchasing power: 1786.605x
+	-"Latvia" purchasing power: 1739.503x
+	-"Slovenia" purchasing power: 1690.696x
+	-"Israel" purchasing power: 1682.334x
+	-"Chile" purchasing power: 1629.808x
+	-"Austria" purchasing power: 1574.511x
+	-"Greece" purchasing power: 1563.36x
+	-"Netherlands" purchasing power: 1484.23x
+	-"Poland" purchasing power: 1436.471x
+	-"Iceland" purchasing power: 1427.523x
+	-"Lithuania" purchasing power: 1386.999x
+	-"Spain" purchasing power: 1379.634x
+	-"Mexico" purchasing power: 1374.88x
+	-"Germany" purchasing power: 1304.371x
+	-"Estonia" purchasing power: 1270.619x
+	-"Belgium" purchasing power: 1242.62x
+	-"Switzerland" purchasing power: 1228.526x
+	-"Norway" purchasing power: 1219.614x
+	-"Japan" purchasing power: 1214.163x
+	-"New Zealand" purchasing power: 1167.38x
+	-"Czech Republic" purchasing power: 1147.313x
+	-"Portugal" purchasing power: 1142.093x
+	-"Slovakia" purchasing power: 1090.982x
+	-"Denmark" purchasing power: 1076.623x
+	-"France" purchasing power: 1066.382x
+	-"Italy" purchasing power: 999.423x
+	-"Finland" purchasing power: 875.388x
+	-"Sweden" purchasing power: 861.11x
+	-"Hungary" purchasing power: 792.02x
+31.Gasoline (1 liter) :
+	-"United States" purchasing power: 84108.333x
+	-"Australia" purchasing power: 59825.243x
+	-"Canada" purchasing power: 52666.316x
+	-"Switzerland" purchasing power: 52475.595x
+	-"Luxembourg" purchasing power: 51963.768x
+	-"Iceland" purchasing power: 50933.708x
+	-"Denmark" purchasing power: 40290.798x
+	-"Norway" purchasing power: 35753.261x
+	-"Austria" purchasing power: 34504.286x
+	-"Ireland" purchasing power: 32988.82x
+	-"New Zealand" purchasing power: 31916.327x
+	-"Belgium" purchasing power: 30505.556x
+	-"Sweden" purchasing power: 28959.394x
+	-"Netherlands" purchasing power: 28800.546x
+	-"Japan" purchasing power: 28747.368x
+	-"United Kingdom" purchasing power: 28477.987x
+	-"Germany" purchasing power: 27791.25x
+	-"Finland" purchasing power: 27035.838x
+	-"France" purchasing power: 25703.03x
+	-"Israel" purchasing power: 23942.373x
+	-"South Korea" purchasing power: 23425.373x
+	-"Spain" purchasing power: 21667.808x
+	-"Italy" purchasing power: 18710.795x
+	-"Slovenia" purchasing power: 17808.667x
+	-"Chile" purchasing power: 15537.5x
+	-"Estonia" purchasing power: 11209.868x
+	-"Portugal" purchasing power: 11040.23x
+	-"Greece" purchasing power: 10917.318x
+	-"Latvia" purchasing power: 10853.521x
+	-"Czech Republic" purchasing power: 10676.389x
+	-"Lithuania" purchasing power: 10433.088x
+	-"Poland" purchasing power: 10023.134x
+	-"Slovakia" purchasing power: 9726.144x
+	-"Hungary" purchasing power: 9332.836x
+	-"Mexico" purchasing power: 8507.921x
+32.Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) :
+	-"Australia" purchasing power: 3.516x
+	-"Switzerland" purchasing power: 3.447x
+	-"Iceland" purchasing power: 3.23x
+	-"Luxembourg" purchasing power: 2.868x
+	-"United States" purchasing power: 2.766x
+	-"Canada" purchasing power: 2.621x
+	-"Sweden" purchasing power: 2.217x
+	-"Austria" purchasing power: 2.125x
+	-"Belgium" purchasing power: 2.09x
+	-"New Zealand" purchasing power: 2.002x
+	-"Germany" purchasing power: 1.957x
+	-"United Kingdom" purchasing power: 1.948x
+	-"Netherlands" purchasing power: 1.929x
+	-"Ireland" purchasing power: 1.927x
+	-"France" purchasing power: 1.866x
+	-"Norway" purchasing power: 1.808x
+	-"Denmark" purchasing power: 1.798x
+	-"Finland" purchasing power: 1.715x
+	-"Japan" purchasing power: 1.621x
+	-"Spain" purchasing power: 1.465x
+	-"Italy" purchasing power: 1.4x
+	-"Slovenia" purchasing power: 1.252x
+	-"South Korea" purchasing power: 1.18x
+	-"Israel" purchasing power: 1.156x
+	-"Chile" purchasing power: 1.087x
+	-"Greece" purchasing power: 0.93x
+	-"Slovakia" purchasing power: 0.873x
+	-"Estonia" purchasing power: 0.852x
+	-"Czech Republic" purchasing power: 0.795x
+	-"Latvia" purchasing power: 0.758x
+	-"Lithuania" purchasing power: 0.732x
+	-"Poland" purchasing power: 0.718x
+	-"Portugal" purchasing power: 0.676x
+	-"Hungary" purchasing power: 0.643x
+	-"Mexico" purchasing power: 0.55x
+33.Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car) :
+	-"Australia" purchasing power: 3.673x
+	-"Switzerland" purchasing power: 3.307x
+	-"United States" purchasing power: 2.948x
+	-"Iceland" purchasing power: 2.881x
+	-"Canada" purchasing power: 2.839x
+	-"Luxembourg" purchasing power: 2.437x
+	-"New Zealand" purchasing power: 2.363x
+	-"Sweden" purchasing power: 2.248x
+	-"Austria" purchasing power: 2.105x
+	-"Japan" purchasing power: 1.982x
+	-"Netherlands" purchasing power: 1.943x
+	-"United Kingdom" purchasing power: 1.904x
+	-"Belgium" purchasing power: 1.903x
+	-"Germany" purchasing power: 1.9x
+	-"Ireland" purchasing power: 1.861x
+	-"Norway" purchasing power: 1.842x
+	-"France" purchasing power: 1.726x
+	-"Denmark" purchasing power: 1.701x
+	-"Finland" purchasing power: 1.675x
+	-"Spain" purchasing power: 1.423x
+	-"South Korea" purchasing power: 1.303x
+	-"Slovenia" purchasing power: 1.295x
+	-"Italy" purchasing power: 1.278x
+	-"Chile" purchasing power: 1.189x
+	-"Israel" purchasing power: 1.152x
+	-"Greece" purchasing power: 0.925x
+	-"Estonia" purchasing power: 0.856x
+	-"Slovakia" purchasing power: 0.831x
+	-"Latvia" purchasing power: 0.788x
+	-"Czech Republic" purchasing power: 0.777x
+	-"Lithuania" purchasing power: 0.715x
+	-"Portugal" purchasing power: 0.708x
+	-"Poland" purchasing power: 0.674x
+	-"Hungary" purchasing power: 0.62x
+	-"Mexico" purchasing power: 0.553x
+34.Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment :
+	-"Iceland" purchasing power: 949.142x
+	-"Sweden" purchasing power: 634.231x
+	-"Switzerland" purchasing power: 475.635x
+	-"Australia" purchasing power: 442.8x
+	-"Canada" purchasing power: 441.13x
+	-"New Zealand" purchasing power: 399.294x
+	-"United States" purchasing power: 397.545x
+	-"Finland" purchasing power: 384.291x
+	-"Norway" purchasing power: 368.405x
+	-"Denmark" purchasing power: 340.297x
+	-"Ireland" purchasing power: 330.833x
+	-"Belgium" purchasing power: 325.639x
+	-"Netherlands" purchasing power: 293.245x
+	-"Luxembourg" purchasing power: 285.993x
+	-"France" purchasing power: 264.93x
+	-"Austria" purchasing power: 253.855x
+	-"United Kingdom" purchasing power: 246.596x
+	-"Mexico" purchasing power: 241.173x
+	-"Spain" purchasing power: 240.278x
+	-"Israel" purchasing power: 222.679x
+	-"South Korea" purchasing power: 219.495x
+	-"Italy" purchasing power: 199.316x
+	-"Japan" purchasing power: 197.337x
+	-"Germany" purchasing power: 180.455x
+	-"Portugal" purchasing power: 179.098x
+	-"Chile" purchasing power: 161.624x
+	-"Greece" purchasing power: 117.039x
+	-"Slovenia" purchasing power: 114.895x
+	-"Lithuania" purchasing power: 94.185x
+	-"Estonia" purchasing power: 86.365x
+	-"Latvia" purchasing power: 83.093x
+	-"Czech Republic" purchasing power: 82.607x
+	-"Poland" purchasing power: 76.867x
+	-"Hungary" purchasing power: 75.927x
+	-"Slovakia" purchasing power: 74.479x
+35.1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) :
+	-"Austria" purchasing power: 805100.0x
+	-"Norway" purchasing power: 657860.0x
+	-"United States" purchasing power: 605580.0x
+	-"Finland" purchasing power: 584650.0x
+	-"Iceland" purchasing power: 566637.5x
+	-"Israel" purchasing power: 529725.0x
+	-"Denmark" purchasing power: 505184.615x
+	-"United Kingdom" purchasing power: 503111.111x
+	-"Sweden" purchasing power: 477830.0x
+	-"Germany" purchasing power: 404236.364x
+	-"Australia" purchasing power: 385125.0x
+	-"Slovenia" purchasing power: 381614.286x
+	-"Luxembourg" purchasing power: 377421.053x
+	-"Estonia" purchasing power: 340780.0x
+	-"Netherlands" purchasing power: 310029.412x
+	-"Switzerland" purchasing power: 275496.875x
+	-"Italy" purchasing power: 274425.0x
+	-"South Korea" purchasing power: 241461.538x
+	-"Belgium" purchasing power: 224631.818x
+	-"Poland" purchasing power: 223850.0x
+	-"France" purchasing power: 212050.0x
+	-"Lithuania" purchasing power: 202700.0x
+	-"Canada" purchasing power: 192434.615x
+	-"Ireland" purchasing power: 189685.714x
+	-"Slovakia" purchasing power: 186012.5x
+	-"Spain" purchasing power: 175750.0x
+	-"Latvia" purchasing power: 171244.444x
+	-"New Zealand" purchasing power: 156390.0x
+	-"Chile" purchasing power: 155375.0x
+	-"Mexico" purchasing power: 143216.667x
+	-"Hungary" purchasing power: 138955.556x
+	-"Czech Republic" purchasing power: 109814.286x
+	-"Japan" purchasing power: 103335.135x
+	-"Portugal" purchasing power: 101105.263x
+	-"Greece" purchasing power: 48855.0x
+36.Internet (60 Mbps or More, Unlimited Data, Cable/ADSL) :
+	-"Denmark" purchasing power: 1795.844x
+	-"Finland" purchasing power: 1763.65x
+	-"Israel" purchasing power: 1645.748x
+	-"Sweden" purchasing power: 1565.629x
+	-"Switzerland" purchasing power: 1450.461x
+	-"Iceland" purchasing power: 1445.965x
+	-"Austria" purchasing power: 1427.482x
+	-"South Korea" purchasing power: 1384.039x
+	-"France" purchasing power: 1363.666x
+	-"Luxembourg" purchasing power: 1363.308x
+	-"Germany" purchasing power: 1294.498x
+	-"Netherlands" purchasing power: 1208.276x
+	-"Norway" purchasing power: 1205.093x
+	-"Lithuania" purchasing power: 1193.356x
+	-"Australia" purchasing power: 1184.317x
+	-"United Kingdom" purchasing power: 1171.236x
+	-"Italy" purchasing power: 1039.161x
+	-"Poland" purchasing power: 976.09x
+	-"United States" purchasing power: 965.529x
+	-"Belgium" purchasing power: 942.571x
+	-"Ireland" purchasing power: 912.577x
+	-"Hungary" purchasing power: 893.286x
+	-"Canada" purchasing power: 884.757x
+	-"Japan" purchasing power: 879.145x
+	-"Latvia" purchasing power: 867.793x
+	-"New Zealand" purchasing power: 833.339x
+	-"Slovakia" purchasing power: 823.52x
+	-"Czech Republic" purchasing power: 761.089x
+	-"Slovenia" purchasing power: 712.347x
+	-"Spain" purchasing power: 681.348x
+	-"Estonia" purchasing power: 677.226x
+	-"Greece" purchasing power: 570.569x
+	-"Portugal" purchasing power: 556.167x
+	-"Chile" purchasing power: 482.531x
+	-"Mexico" purchasing power: 334.879x
+37.Fitness Club, Monthly Fee for 1 Adult :
+	-"Denmark" purchasing power: 1825.292x
+	-"Belgium" purchasing power: 1678.065x
+	-"United States" purchasing power: 1672.873x
+	-"Netherlands" purchasing power: 1618.207x
+	-"Luxembourg" purchasing power: 1508.097x
+	-"Iceland" purchasing power: 1493.854x
+	-"Austria" purchasing power: 1460.72x
+	-"Norway" purchasing power: 1394.658x
+	-"Australia" purchasing power: 1382.544x
+	-"Germany" purchasing power: 1353.607x
+	-"Canada" purchasing power: 1349.69x
+	-"Sweden" purchasing power: 1346.759x
+	-"United Kingdom" purchasing power: 1227.766x
+	-"Ireland" purchasing power: 1211.773x
+	-"New Zealand" purchasing power: 1205.473x
+	-"Finland" purchasing power: 1132.494x
+	-"Switzerland" purchasing power: 1063.566x
+	-"France" purchasing power: 1044.324x
+	-"Spain" purchasing power: 770.458x
+	-"Israel" purchasing power: 611.251x
+	-"Italy" purchasing power: 611.078x
+	-"Slovenia" purchasing power: 603.82x
+	-"Greece" purchasing power: 553.912x
+	-"South Korea" purchasing power: 519.015x
+	-"Portugal" purchasing power: 505.793x
+	-"Slovakia" purchasing power: 491.771x
+	-"Poland" purchasing power: 490.72x
+	-"Chile" purchasing power: 490.142x
+	-"Japan" purchasing power: 472.083x
+	-"Czech Republic" purchasing power: 427.888x
+	-"Lithuania" purchasing power: 411.395x
+	-"Latvia" purchasing power: 396.297x
+	-"Estonia" purchasing power: 347.877x
+	-"Hungary" purchasing power: 344.139x
+	-"Mexico" purchasing power: 297.233x
+38.Tennis Court Rent (1 Hour on Weekend) :
+	-"New Zealand" purchasing power: 4622.365x
+	-"Australia" purchasing power: 4279.167x
+	-"United States" purchasing power: 3981.46x
+	-"United Kingdom" purchasing power: 3545.81x
+	-"Canada" purchasing power: 3246.788x
+	-"Ireland" purchasing power: 3010.884x
+	-"Belgium" purchasing power: 2934.62x
+	-"Iceland" purchasing power: 2606.728x
+	-"Netherlands" purchasing power: 2578.523x
+	-"Switzerland" purchasing power: 2554.593x
+	-"Denmark" purchasing power: 2554.415x
+	-"France" purchasing power: 2417.902x
+	-"Spain" purchasing power: 2403.875x
+	-"Austria" purchasing power: 2367.941x
+	-"Israel" purchasing power: 2313.21x
+	-"Luxembourg" purchasing power: 2294.72x
+	-"Sweden" purchasing power: 2221.432x
+	-"Germany" purchasing power: 2110.394x
+	-"Norway" purchasing power: 2019.214x
+	-"Finland" purchasing power: 1905.949x
+	-"Slovenia" purchasing power: 1902.635x
+	-"South Korea" purchasing power: 1798.854x
+	-"Japan" purchasing power: 1653.72x
+	-"Italy" purchasing power: 1551.154x
+	-"Portugal" purchasing power: 1507.849x
+	-"Czech Republic" purchasing power: 1381.312x
+	-"Slovakia" purchasing power: 1352.818x
+	-"Greece" purchasing power: 1135.503x
+	-"Poland" purchasing power: 1057.559x
+	-"Hungary" purchasing power: 1032.7x
+	-"Chile" purchasing power: 945.967x
+	-"Lithuania" purchasing power: 745.612x
+	-"Mexico" purchasing power: 737.597x
+	-"Estonia" purchasing power: 690.957x
+	-"Latvia" purchasing power: 654.437x
+39.Cinema, International Release, 1 Seat :
+	-"Iceland" purchasing power: 7293.805x
+	-"Luxembourg" purchasing power: 6312.5x
+	-"United States" purchasing power: 5046.5x
+	-"Canada" purchasing power: 5038.57x
+	-"Australia" purchasing power: 4882.726x
+	-"Switzerland" purchasing power: 4778.266x
+	-"Ireland" purchasing power: 4675.352x
+	-"New Zealand" purchasing power: 4668.358x
+	-"Denmark" purchasing power: 4314.98x
+	-"Norway" purchasing power: 4311.009x
+	-"Austria" purchasing power: 4252.289x
+	-"Netherlands" purchasing power: 4216.4x
+	-"Belgium" purchasing power: 3953.52x
+	-"Slovenia" purchasing power: 3916.862x
+	-"Germany" purchasing power: 3914.261x
+	-"Israel" purchasing power: 3783.75x
+	-"France" purchasing power: 3733.275x
+	-"South Korea" purchasing power: 3628.902x
+	-"Italy" purchasing power: 3622.772x
+	-"United Kingdom" purchasing power: 3573.796x
+	-"Spain" purchasing power: 3480.198x
+	-"Sweden" purchasing power: 3410.635x
+	-"Finland" purchasing power: 3166.689x
+	-"Chile" purchasing power: 2543.656x
+	-"Portugal" purchasing power: 2524.31x
+	-"Mexico" purchasing power: 2354.247x
+	-"Greece" purchasing power: 2293.662x
+	-"Japan" purchasing power: 2286.722x
+	-"Hungary" purchasing power: 2094.807x
+	-"Slovakia" purchasing power: 2013.667x
+	-"Poland" purchasing power: 2010.629x
+	-"Estonia" purchasing power: 1999.883x
+	-"Latvia" purchasing power: 1938.616x
+	-"Czech Republic" purchasing power: 1924.155x
+	-"Lithuania" purchasing power: 1784.78x
+40.Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child :
+	-"Iceland" purchasing power: 319.953x
+	-"Sweden" purchasing power: 226.868x
+	-"Norway" purchasing power: 182.283x
+	-"Austria" purchasing power: 178.924x
+	-"Finland" purchasing power: 144.296x
+	-"Denmark" purchasing power: 139.358x
+	-"Germany" purchasing power: 127.067x
+	-"Japan" purchasing power: 95.466x
+	-"South Korea" purchasing power: 88.46x
+	-"Belgium" purchasing power: 80.82x
+	-"Spain" purchasing power: 79.788x
+	-"United States" purchasing power: 68.344x
+	-"Canada" purchasing power: 68.325x
+	-"New Zealand" purchasing power: 67.181x
+	-"Estonia" purchasing power: 67.017x
+	-"Italy" purchasing power: 66.218x
+	-"Slovenia" purchasing power: 62.503x
+	-"Luxembourg" purchasing power: 58.927x
+	-"France" purchasing power: 56.484x
+	-"Poland" purchasing power: 56.414x
+	-"Israel" purchasing power: 54.503x
+	-"Ireland" purchasing power: 53.594x
+	-"Greece" purchasing power: 52.883x
+	-"Mexico" purchasing power: 51.56x
+	-"Australia" purchasing power: 50.938x
+	-"Portugal" purchasing power: 47.145x
+	-"Chile" purchasing power: 46.373x
+	-"Latvia" purchasing power: 44.299x
+	-"Hungary" purchasing power: 41.527x
+	-"Lithuania" purchasing power: 41.126x
+	-"United Kingdom" purchasing power: 41.104x
+	-"Switzerland" purchasing power: 39.504x
+	-"Czech Republic" purchasing power: 39.001x
+	-"Slovakia" purchasing power: 38.025x
+	-"Netherlands" purchasing power: 34.079x
+41.International Primary School, Yearly for 1 Child :
+	-"Iceland" purchasing power: 13.045x
+	-"Sweden" purchasing power: 12.777x
+	-"Norway" purchasing power: 10.992x
+	-"Denmark" purchasing power: 9.09x
+	-"Netherlands" purchasing power: 7.118x
+	-"Ireland" purchasing power: 6.485x
+	-"Finland" purchasing power: 6.422x
+	-"Australia" purchasing power: 4.733x
+	-"Luxembourg" purchasing power: 4.52x
+	-"Canada" purchasing power: 4.369x
+	-"Spain" purchasing power: 4.004x
+	-"New Zealand" purchasing power: 3.767x
+	-"Israel" purchasing power: 3.69x
+	-"United States" purchasing power: 3.534x
+	-"Switzerland" purchasing power: 3.403x
+	-"Belgium" purchasing power: 3.142x
+	-"Chile" purchasing power: 2.899x
+	-"United Kingdom" purchasing power: 2.779x
+	-"Austria" purchasing power: 2.708x
+	-"Germany" purchasing power: 2.667x
+	-"Greece" purchasing power: 2.564x
+	-"France" purchasing power: 2.423x
+	-"Slovenia" purchasing power: 2.312x
+	-"Portugal" purchasing power: 2.186x
+	-"Japan" purchasing power: 2.156x
+	-"Mexico" purchasing power: 2.15x
+	-"Czech Republic" purchasing power: 2.02x
+	-"Italy" purchasing power: 1.885x
+	-"South Korea" purchasing power: 1.721x
+	-"Hungary" purchasing power: 1.619x
+	-"Poland" purchasing power: 1.567x
+	-"Slovakia" purchasing power: 1.547x
+	-"Lithuania" purchasing power: 1.533x
+	-"Estonia" purchasing power: 1.415x
+	-"Latvia" purchasing power: 1.253x
+42.1 Pair of Jeans (Levis 501 Or Similar) :
+	-"United States" purchasing power: 1404.732x
+	-"Canada" purchasing power: 1051.334x
+	-"Australia" purchasing power: 913.566x
+	-"Switzerland" purchasing power: 811.927x
+	-"Iceland" purchasing power: 800.124x
+	-"Luxembourg" purchasing power: 744.962x
+	-"Norway" purchasing power: 663.232x
+	-"New Zealand" purchasing power: 656.641x
+	-"Ireland" purchasing power: 633.341x
+	-"United Kingdom" purchasing power: 625.674x
+	-"Japan" purchasing power: 598.341x
+	-"Denmark" purchasing power: 593.047x
+	-"Netherlands" purchasing power: 554.965x
+	-"South Korea" purchasing power: 542.61x
+	-"Austria" purchasing power: 534.477x
+	-"Sweden" purchasing power: 518.535x
+	-"Belgium" purchasing power: 517.585x
+	-"Germany" purchasing power: 514.891x
+	-"Finland" purchasing power: 489.196x
+	-"Israel" purchasing power: 481.842x
+	-"France" purchasing power: 457.399x
+	-"Spain" purchasing power: 396.926x
+	-"Italy" purchasing power: 373.918x
+	-"Chile" purchasing power: 357.458x
+	-"Slovenia" purchasing power: 345.844x
+	-"Greece" purchasing power: 235.106x
+	-"Latvia" purchasing power: 235.082x
+	-"Slovakia" purchasing power: 232.37x
+	-"Portugal" purchasing power: 220.147x
+	-"Czech Republic" purchasing power: 216.841x
+	-"Estonia" purchasing power: 210.931x
+	-"Mexico" purchasing power: 208.872x
+	-"Lithuania" purchasing power: 197.866x
+	-"Hungary" purchasing power: 196.142x
+	-"Poland" purchasing power: 191.08x
+43.1 Summer Dress in a Chain Store (Zara, H&M, ...) :
+	-"United States" purchasing power: 1748.21x
+	-"Iceland" purchasing power: 1731.182x
+	-"Switzerland" purchasing power: 1718.834x
+	-"Luxembourg" purchasing power: 1595.683x
+	-"Denmark" purchasing power: 1552.577x
+	-"Canada" purchasing power: 1496.65x
+	-"Norway" purchasing power: 1458.346x
+	-"Australia" purchasing power: 1456.049x
+	-"Netherlands" purchasing power: 1401.356x
+	-"Finland" purchasing power: 1299.583x
+	-"Sweden" purchasing power: 1293.53x
+	-"Ireland" purchasing power: 1274.586x
+	-"New Zealand" purchasing power: 1255.472x
+	-"United Kingdom" purchasing power: 1249.793x
+	-"Belgium" purchasing power: 1220.825x
+	-"Austria" purchasing power: 1208.254x
+	-"Germany" purchasing power: 1195.001x
+	-"France" purchasing power: 1147.767x
+	-"Spain" purchasing power: 1012.644x
+	-"Italy" purchasing power: 960.928x
+	-"Japan" purchasing power: 944.516x
+	-"Slovenia" purchasing power: 834.52x
+	-"Israel" purchasing power: 782.171x
+	-"South Korea" purchasing power: 768.233x
+	-"Portugal" purchasing power: 594.001x
+	-"Greece" purchasing power: 592.182x
+	-"Chile" purchasing power: 585.4x
+	-"Estonia" purchasing power: 514.618x
+	-"Slovakia" purchasing power: 474.068x
+	-"Latvia" purchasing power: 449.723x
+	-"Hungary" purchasing power: 429.907x
+	-"Czech Republic" purchasing power: 426.345x
+	-"Poland" purchasing power: 382.759x
+	-"Lithuania" purchasing power: 366.073x
+	-"Mexico" purchasing power: 279.902x
+44.1 Pair of Nike Running Shoes (Mid-Range) :
+	-"United States" purchasing power: 820.347x
+	-"Luxembourg" purchasing power: 781.836x
+	-"Switzerland" purchasing power: 774.479x
+	-"Canada" purchasing power: 663.304x
+	-"Australia" purchasing power: 661.159x
+	-"Iceland" purchasing power: 628.288x
+	-"Norway" purchasing power: 598.272x
+	-"Ireland" purchasing power: 594.493x
+	-"United Kingdom" purchasing power: 588.434x
+	-"Denmark" purchasing power: 575.684x
+	-"Netherlands" purchasing power: 533.938x
+	-"Austria" purchasing power: 523.813x
+	-"Japan" purchasing power: 516.048x
+	-"Sweden" purchasing power: 506.713x
+	-"Belgium" purchasing power: 504.945x
+	-"New Zealand" purchasing power: 499.649x
+	-"Finland" purchasing power: 492.596x
+	-"Germany" purchasing power: 481.599x
+	-"France" purchasing power: 443.712x
+	-"Spain" purchasing power: 403.559x
+	-"South Korea" purchasing power: 376.695x
+	-"Israel" purchasing power: 359.196x
+	-"Italy" purchasing power: 354.554x
+	-"Slovenia" purchasing power: 321.611x
+	-"Chile" purchasing power: 297.131x
+	-"Portugal" purchasing power: 242.704x
+	-"Greece" purchasing power: 235.957x
+	-"Slovakia" purchasing power: 218.742x
+	-"Estonia" purchasing power: 217.168x
+	-"Latvia" purchasing power: 205.411x
+	-"Czech Republic" purchasing power: 195.374x
+	-"Poland" purchasing power: 183.058x
+	-"Lithuania" purchasing power: 168.116x
+	-"Hungary" purchasing power: 161.597x
+	-"Mexico" purchasing power: 125.226x
+45.1 Pair of Men Leather Business Shoes :
+	-"United States" purchasing power: 642.116x
+	-"Australia" purchasing power: 629.804x
+	-"United Kingdom" purchasing power: 592.05x
+	-"Switzerland" purchasing power: 555.612x
+	-"Ireland" purchasing power: 541.296x
+	-"Canada" purchasing power: 529.002x
+	-"Luxembourg" purchasing power: 491.737x
+	-"Iceland" purchasing power: 491.446x
+	-"Norway" purchasing power: 436.942x
+	-"New Zealand" purchasing power: 436.762x
+	-"Denmark" purchasing power: 428.961x
+	-"Austria" purchasing power: 389.879x
+	-"Netherlands" purchasing power: 389.686x
+	-"Germany" purchasing power: 382.602x
+	-"Sweden" purchasing power: 373.072x
+	-"Finland" purchasing power: 359.812x
+	-"Belgium" purchasing power: 357.668x
+	-"Israel" purchasing power: 347.475x
+	-"Japan" purchasing power: 341.833x
+	-"Spain" purchasing power: 330.461x
+	-"France" purchasing power: 327.036x
+	-"Slovenia" purchasing power: 256.117x
+	-"Italy" purchasing power: 251.612x
+	-"South Korea" purchasing power: 250.819x
+	-"Chile" purchasing power: 228.577x
+	-"Portugal" purchasing power: 213.468x
+	-"Slovakia" purchasing power: 197.623x
+	-"Greece" purchasing power: 193.696x
+	-"Estonia" purchasing power: 174.938x
+	-"Poland" purchasing power: 166.824x
+	-"Czech Republic" purchasing power: 161.238x
+	-"Latvia" purchasing power: 152.292x
+	-"Hungary" purchasing power: 142.275x
+	-"Mexico" purchasing power: 141.635x
+	-"Lithuania" purchasing power: 128.465x
+46.Apartment (1 bedroom) in City Centre :
+	-"Denmark" purchasing power: 64.333x
+	-"Iceland" purchasing power: 61.573x
+	-"Belgium" purchasing power: 60.19x
+	-"Switzerland" purchasing power: 60.096x
+	-"Austria" purchasing power: 59.141x
+	-"Finland" purchasing power: 56.598x
+	-"France" purchasing power: 56.471x
+	-"South Korea" purchasing power: 56.394x
+	-"Greece" purchasing power: 56.311x
+	-"Norway" purchasing power: 56.157x
+	-"Sweden" purchasing power: 56.15x
+	-"Germany" purchasing power: 55.667x
+	-"Slovenia" purchasing power: 54.776x
+	-"Canada" purchasing power: 52.851x
+	-"Australia" purchasing power: 51.887x
+	-"United Kingdom" purchasing power: 49.236x
+	-"Italy" purchasing power: 48.011x
+	-"New Zealand" purchasing power: 47.905x
+	-"Netherlands" purchasing power: 47.264x
+	-"United States" purchasing power: 46.943x
+	-"Japan" purchasing power: 46.493x
+	-"Luxembourg" purchasing power: 44.897x
+	-"Spain" purchasing power: 44.315x
+	-"Israel" purchasing power: 42.664x
+	-"Chile" purchasing power: 40.449x
+	-"Latvia" purchasing power: 40.183x
+	-"Ireland" purchasing power: 40.145x
+	-"Estonia" purchasing power: 32.714x
+	-"Lithuania" purchasing power: 32.254x
+	-"Hungary" purchasing power: 28.493x
+	-"Slovakia" purchasing power: 27.735x
+	-"Portugal" purchasing power: 27.678x
+	-"Mexico" purchasing power: 27.6x
+	-"Poland" purchasing power: 26.735x
+	-"Czech Republic" purchasing power: 25.417x
+47.Apartment (1 bedroom) Outside of Centre :
+	-"Denmark" purchasing power: 88.483x
+	-"South Korea" purchasing power: 85.241x
+	-"Sweden" purchasing power: 80.085x
+	-"Switzerland" purchasing power: 76.32x
+	-"Iceland" purchasing power: 74.542x
+	-"Germany" purchasing power: 74.003x
+	-"Austria" purchasing power: 73.587x
+	-"Belgium" purchasing power: 72.305x
+	-"France" purchasing power: 72.2x
+	-"Finland" purchasing power: 71.687x
+	-"Norway" purchasing power: 71.472x
+	-"Japan" purchasing power: 69.91x
+	-"Slovenia" purchasing power: 69.383x
+	-"Australia" purchasing power: 68.565x
+	-"Greece" purchasing power: 67.496x
+	-"Canada" purchasing power: 65.118x
+	-"Italy" purchasing power: 63.651x
+	-"United Kingdom" purchasing power: 61.312x
+	-"United States" purchasing power: 59.587x
+	-"New Zealand" purchasing power: 59.088x
+	-"Netherlands" purchasing power: 58.969x
+	-"Spain" purchasing power: 57.834x
+	-"Latvia" purchasing power: 55.475x
+	-"Israel" purchasing power: 54.677x
+	-"Luxembourg" purchasing power: 53.998x
+	-"Lithuania" purchasing power: 49.713x
+	-"Ireland" purchasing power: 48.384x
+	-"Chile" purchasing power: 47.97x
+	-"Estonia" purchasing power: 46.95x
+	-"Mexico" purchasing power: 42.09x
+	-"Portugal" purchasing power: 38.875x
+	-"Hungary" purchasing power: 38.397x
+	-"Slovakia" purchasing power: 36.511x
+	-"Poland" purchasing power: 34.465x
+	-"Czech Republic" purchasing power: 32.347x
+48.Apartment (3 bedrooms) in City Centre :
+	-"Iceland" purchasing power: 40.756x
+	-"Belgium" purchasing power: 37.115x
+	-"Sweden" purchasing power: 35.077x
+	-"Denmark" purchasing power: 34.355x
+	-"Norway" purchasing power: 33.943x
+	-"Greece" purchasing power: 33.403x
+	-"Finland" purchasing power: 33.094x
+	-"Canada" purchasing power: 32.692x
+	-"Australia" purchasing power: 32.573x
+	-"Switzerland" purchasing power: 32.35x
+	-"Austria" purchasing power: 31.816x
+	-"Slovenia" purchasing power: 31.416x
+	-"United Kingdom" purchasing power: 29.898x
+	-"New Zealand" purchasing power: 29.342x
+	-"Germany" purchasing power: 29.014x
+	-"United States" purchasing power: 28.976x
+	-"France" purchasing power: 28.649x
+	-"Italy" purchasing power: 28.248x
+	-"Netherlands" purchasing power: 27.946x
+	-"Spain" purchasing power: 27.502x
+	-"Israel" purchasing power: 26.16x
+	-"Luxembourg" purchasing power: 23.872x
+	-"Ireland" purchasing power: 23.753x
+	-"Chile" purchasing power: 23.168x
+	-"Latvia" purchasing power: 23.023x
+	-"South Korea" purchasing power: 22.188x
+	-"Japan" purchasing power: 20.909x
+	-"Estonia" purchasing power: 19.543x
+	-"Lithuania" purchasing power: 19.047x
+	-"Slovakia" purchasing power: 17.879x
+	-"Hungary" purchasing power: 16.324x
+	-"Poland" purchasing power: 16.124x
+	-"Portugal" purchasing power: 15.424x
+	-"Czech Republic" purchasing power: 14.228x
+	-"Mexico" purchasing power: 13.464x
+49.Apartment (3 bedrooms) Outside of Centre :
+	-"Iceland" purchasing power: 48.177x
+	-"Sweden" purchasing power: 48.16x
+	-"Denmark" purchasing power: 46.747x
+	-"Australia" purchasing power: 46.636x
+	-"Belgium" purchasing power: 46.297x
+	-"Finland" purchasing power: 43.789x
+	-"Norway" purchasing power: 43.532x
+	-"Slovenia" purchasing power: 41.791x
+	-"Austria" purchasing power: 40.45x
+	-"Switzerland" purchasing power: 40.015x
+	-"Canada" purchasing power: 39.85x
+	-"Germany" purchasing power: 39.513x
+	-"Greece" purchasing power: 38.755x
+	-"United Kingdom" purchasing power: 38.713x
+	-"France" purchasing power: 38.431x
+	-"Italy" purchasing power: 38.381x
+	-"Japan" purchasing power: 38.323x
+	-"Spain" purchasing power: 37.665x
+	-"South Korea" purchasing power: 37.25x
+	-"United States" purchasing power: 37.142x
+	-"Netherlands" purchasing power: 36.753x
+	-"New Zealand" purchasing power: 35.587x
+	-"Israel" purchasing power: 33.526x
+	-"Latvia" purchasing power: 33.08x
+	-"Lithuania" purchasing power: 31.333x
+	-"Luxembourg" purchasing power: 30.783x
+	-"Ireland" purchasing power: 30.132x
+	-"Estonia" purchasing power: 28.416x
+	-"Chile" purchasing power: 27.608x
+	-"Slovakia" purchasing power: 23.838x
+	-"Portugal" purchasing power: 23.317x
+	-"Hungary" purchasing power: 22.229x
+	-"Poland" purchasing power: 21.068x
+	-"Czech Republic" purchasing power: 20.339x
+	-"Mexico" purchasing power: 19.619x
+50.Price per Square Meter to Buy Apartment in City Centre (85m2) :
+	-"United States" purchasing power: 0.28x
+	-"Iceland" purchasing power: 0.233x
+	-"Belgium" purchasing power: 0.171x
+	-"Ireland" purchasing power: 0.144x
+	-"Denmark" purchasing power: 0.142x
+	-"Greece" purchasing power: 0.138x
+	-"Netherlands" purchasing power: 0.136x
+	-"Australia" purchasing power: 0.133x
+	-"Canada" purchasing power: 0.129x
+	-"New Zealand" purchasing power: 0.12x
+	-"Norway" purchasing power: 0.117x
+	-"Spain" purchasing power: 0.112x
+	-"Slovenia" purchasing power: 0.112x
+	-"Finland" purchasing power: 0.111x
+	-"Austria" purchasing power: 0.104x
+	-"United Kingdom" purchasing power: 0.103x
+	-"Italy" purchasing power: 0.103x
+	-"Latvia" purchasing power: 0.099x
+	-"Chile" purchasing power: 0.096x
+	-"Germany" purchasing power: 0.094x
+	-"Luxembourg" purchasing power: 0.091x
+	-"Switzerland" purchasing power: 0.091x
+	-"Sweden" purchasing power: 0.088x
+	-"Slovakia" purchasing power: 0.083x
+	-"Mexico" purchasing power: 0.081x
+	-"Estonia" purchasing power: 0.074x
+	-"Portugal" purchasing power: 0.073x
+	-"Israel" purchasing power: 0.072x
+	-"Lithuania" purchasing power: 0.072x
+	-"Poland" purchasing power: 0.07x
+	-"France" purchasing power: 0.069x
+	-"Hungary" purchasing power: 0.067x
+	-"Japan" purchasing power: 0.051x
+	-"Czech Republic" purchasing power: 0.046x
+	-"South Korea" purchasing power: 0.037x
+51.Price per Square Meter to Buy Apartment Outside of Centre (85m2) :
+	-"United States" purchasing power: 0.385x
+	-"Iceland" purchasing power: 0.305x
+	-"Belgium" purchasing power: 0.214x
+	-"Ireland" purchasing power: 0.208x
+	-"Denmark" purchasing power: 0.201x
+	-"Canada" purchasing power: 0.194x
+	-"Netherlands" purchasing power: 0.192x
+	-"Australia" purchasing power: 0.182x
+	-"Finland" purchasing power: 0.178x
+	-"Spain" purchasing power: 0.172x
+	-"Italy" purchasing power: 0.169x
+	-"Norway" purchasing power: 0.165x
+	-"Latvia" purchasing power: 0.16x
+	-"New Zealand" purchasing power: 0.154x
+	-"Austria" purchasing power: 0.153x
+	-"Greece" purchasing power: 0.153x
+	-"United Kingdom" purchasing power: 0.148x
+	-"Sweden" purchasing power: 0.148x
+	-"Slovenia" purchasing power: 0.145x
+	-"Germany" purchasing power: 0.135x
+	-"Portugal" purchasing power: 0.132x
+	-"Switzerland" purchasing power: 0.129x
+	-"Luxembourg" purchasing power: 0.126x
+	-"Mexico" purchasing power: 0.122x
+	-"Lithuania" purchasing power: 0.114x
+	-"Slovakia" purchasing power: 0.112x
+	-"Chile" purchasing power: 0.112x
+	-"France" purchasing power: 0.112x
+	-"Estonia" purchasing power: 0.111x
+	-"Hungary" purchasing power: 0.102x
+	-"Poland" purchasing power: 0.098x
+	-"Japan" purchasing power: 0.097x
+	-"Israel" purchasing power: 0.095x
+	-"South Korea" purchasing power: 0.073x
+	-"Czech Republic" purchasing power: 0.067x
+52.Average Monthly Net Salary (After Tax) :
+	-"Iceland" purchasing power: 29.146x
+	-"Greece" purchasing power: 24.459x
+	-"Chile" purchasing power: 23.479x
+	-"Belgium" purchasing power: 22.227x
+	-"Austria" purchasing power: 22.15x
+	-"Slovenia" purchasing power: 21.917x
+	-"Spain" purchasing power: 21.657x
+	-"Denmark" purchasing power: 21.448x
+	-"Portugal" purchasing power: 20.671x
+	-"Italy" purchasing power: 20.631x
+	-"Ireland" purchasing power: 20.541x
+	-"Netherlands" purchasing power: 20.53x
+	-"Canada" purchasing power: 20.441x
+	-"Luxembourg" purchasing power: 20.377x
+	-"Australia" purchasing power: 20.335x
+	-"United Kingdom" purchasing power: 20.069x
+	-"Norway" purchasing power: 19.942x
+	-"France" purchasing power: 19.915x
+	-"New Zealand" purchasing power: 19.327x
+	-"United States" purchasing power: 19.298x
+	-"Israel" purchasing power: 18.848x
+	-"Latvia" purchasing power: 18.521x
+	-"Sweden" purchasing power: 18.371x
+	-"Finland" purchasing power: 18.103x
+	-"Germany" purchasing power: 17.688x
+	-"Hungary" purchasing power: 17.237x
+	-"Mexico" purchasing power: 16.937x
+	-"Lithuania" purchasing power: 16.757x
+	-"Switzerland" purchasing power: 16.574x
+	-"Slovakia" purchasing power: 16.48x
+	-"Poland" purchasing power: 15.692x
+	-"Japan" purchasing power: 14.431x
+	-"Czech Republic" purchasing power: 14.232x
+	-"Estonia" purchasing power: 13.948x
+	-"South Korea" purchasing power: 13.5x
+53.Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate :
+	-"Switzerland" purchasing power: 54757.143x
+	-"Luxembourg" purchasing power: 35855.0x
+	-"Denmark" purchasing power: 32837.0x
+	-"Finland" purchasing power: 32707.692x
+	-"Japan" purchasing power: 26925.352x
+	-"Belgium" purchasing power: 25343.077x
+	-"France" purchasing power: 24514.451x
+	-"Norway" purchasing power: 24455.762x
+	-"Germany" purchasing power: 23526.984x
+	-"Austria" purchasing power: 22678.873x
+	-"Netherlands" purchasing power: 21600.41x
+	-"Sweden" purchasing power: 16088.552x
+	-"Italy" purchasing power: 16063.902x
+	-"Iceland" purchasing power: 14436.624x
+	-"Ireland" purchasing power: 14354.595x
+	-"Australia" purchasing power: 14100.686x
+	-"United Kingdom" purchasing power: 14018.576x
+	-"Canada" purchasing power: 13898.056x
+	-"United States" purchasing power: 13889.45x
+	-"Spain" purchasing power: 13461.702x
+	-"Israel" purchasing power: 11903.933x
+	-"New Zealand" purchasing power: 9653.704x
+	-"South Korea" purchasing power: 9020.115x
+	-"Slovakia" purchasing power: 8753.529x
+	-"Portugal" purchasing power: 8037.657x
+	-"Slovenia" purchasing power: 7765.407x
+	-"Estonia" purchasing power: 6578.764x
+	-"Lithuania" purchasing power: 6362.78x
+	-"Latvia" purchasing power: 5996.887x
+	-"Czech Republic" purchasing power: 5801.509x
+	-"Chile" purchasing power: 4638.06x
+	-"Greece" purchasing power: 3996.319x
+	-"Poland" purchasing power: 3391.667x
+	-"Hungary" purchasing power: 2346.341x
+	-"Mexico" purchasing power: 772.752x
+54.Electronics (iPad) :
+	-"Switzerland" purchasing power: 142.749x
+	-"Australia" purchasing power: 121.62x
+	-"Luxembourg" purchasing power: 111.785x
+	-"United States" purchasing power: 110.728x
+	-"Norway" purchasing power: 100.296x
+	-"Denmark" purchasing power: 90.545x
+	-"Canada" purchasing power: 89.797x
+	-"Ireland" purchasing power: 84.207x
+	-"Belgium" purchasing power: 79.922x
+	-"Netherlands" purchasing power: 77.158x
+	-"New Zealand" purchasing power: 76.856x
+	-"Japan" purchasing power: 76.23x
+	-"Germany" purchasing power: 71.912x
+	-"Austria" purchasing power: 71.569x
+	-"United Kingdom" purchasing power: 70.882x
+	-"Sweden" purchasing power: 67.598x
+	-"Finland" purchasing power: 67.274x
+	-"France" purchasing power: 61.599x
+	-"South Korea" purchasing power: 54.478x
+	-"Italy" purchasing power: 48.79x
+	-"Spain" purchasing power: 46.869x
+	-"Slovenia" purchasing power: 39.577x
+	-"Chile" purchasing power: 30.965x
+	-"Portugal" purchasing power: 27.902x
+	-"Greece" purchasing power: 27.311x
+	-"Czech Republic" purchasing power: 22.719x
+	-"Slovakia" purchasing power: 22.047x
+	-"Poland" purchasing power: 19.064x
+	-"Hungary" purchasing power: 18.401x
+	-"Mexico" purchasing power: 14.525x
+	-"Latvia" purchasing power: 0.0x
+	-"Iceland" purchasing power: 0.0x
+	-"Israel" purchasing power: 0.0x
+	-"Estonia" purchasing power: 0.0x
+	-"Lithuania" purchasing power: 0.0x
