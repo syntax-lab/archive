@@ -1,7 +1,7 @@
 # Archive 
 
 
--This is just archive repository which contains same random older or newer stuff.
+-This is just archive repository which contains some random older or newer stuff.
 
 -It's kinda backup repository so keep that in mind that I upload it only for storage purposes.
 
