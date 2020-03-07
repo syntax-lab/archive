@@ -65,7 +65,7 @@ function Find-AllChilds{
 function Get-RootNonActiveWindows{
     $explorer_process_id = (Get-Process "explorer").Id
     return Get-CimInstance -Class Win32_Process -Filter "ParentProcessId=$explorer_process_id" | ? {
-        $_.ProcessId -ne $active_window_id -And $_.ProcessName -eq $active_window_module_name
+        $_.ProcessId -ne $PID -And $_.ProcessId -ne $active_window_id -And $_.ProcessName -eq $active_window_module_name
     }
 }
 
