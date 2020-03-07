@@ -62,7 +62,7 @@ function Find-AllChilds{
     }
 }
 
-function Get-RootActiveWindows{
+function Get-RootNonActiveWindows{
     $explorer_process_id = (Get-Process "explorer").Id
     return Get-CimInstance -Class Win32_Process -Filter "ParentProcessId=$explorer_process_id" | ? {
         $_.ProcessId -ne $active_window_id -And $_.ProcessName -eq $active_window_module_name
@@ -84,18 +84,18 @@ function Set-WindowsState{
             $active_window_name = $active_window_info.Name
             switch($wParam){
                 $HK_CLOSE_STACKED_WND{
-                    Get-RootActiveWindows | ? {
+                    Get-RootNonActiveWindows | ? {
                         Find-AllChilds($_.ProcessId)
                     }
                 }
                 $HK_MINIMIZE_STACKED_WND{
-                    Get-RootActiveWindows | ? {
+                    Get-RootNonActiveWindows | ? {
                         $main_window_handle = (Get-Process -Id $_.ProcessId).MainWindowHandle
                         [WinApiDlls]::ShowWindow($main_window_handle, $SW_MINIMIZE)
                     } | Out-Null
                 }
                 $HK_RESTORE_STACKED_WND{
-                    Get-RootActiveWindows | ? {
+                    Get-RootNonActiveWindows | ? {
                         $main_window_handle = (Get-Process -Id $_.ProcessId).MainWindowHandle
                         [WinApiDlls]::ShowWindow($main_window_handle, $SW_RESTORE)
                     } | Out-Null
