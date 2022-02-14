@@ -3,10 +3,10 @@ import random
 import string
 import itertools
 
-class PasswordGenerator:
+class UniqueStringGenerator:
     def __init__(self):
         self.__additionalTokens__ = [self.__getPepper__, self.__getSalt__]
-        self.__PASSWORD_LENGTH__ = 8 #random.randint(16, 32) #second param cannot be greater than length of printableCharacters array
+        self.__STRING_LENGTH__ = 8 #random.randint(16, 32) #second param cannot be greater than length of printableCharacters array
         
     def __shuffleCharacters__(self, charSet):
         array = list(map(lambda char: ord(char), charSet))
@@ -19,7 +19,7 @@ class PasswordGenerator:
         return array
 
     def __shufflePrintableCharacters__(self):
-        extraChars = r'~`!@#$%^&*()+=_-{}[]\|:;”’?/<>,.' #add more characters to printableCharacters[only if password input support it] ex. r'~`!@#$%^&*()+=_-{}[]\|:;”’?/<>,.®¯¨§¥£¢¡'
+        extraChars = r'~`!@#$%^&*()+=_-{}[]\|:;”’?/<>,.' #add more characters to printableCharacters[only if string input support it] ex. r'~`!@#$%^&*()+=_-{}[]\|:;”’?/<>,.®¯¨§¥£¢¡'
         return self.__shuffleCharacters__(string.ascii_letters + string.digits + extraChars)
 
     def __getSalt__(self):
@@ -51,7 +51,7 @@ class PasswordGenerator:
         for _ in range(random.randint(1000, 10000)):
             partial = self.__getMask__(partial)
         begin = random.randint(0, len(partial) - 1)
-        end = begin + self.__PASSWORD_LENGTH__
+        end = begin + self.__STRING_LENGTH__
         tmp_mask = b''
         if(end > len(partial) - 1):
             tmp_mask = partial[begin: 128]
@@ -78,6 +78,6 @@ class PasswordGenerator:
 
 if __name__ == '__main__':
     for _ in range(15):
-        passwordGeneratorObject = PasswordGenerator()
-        password = passwordGeneratorObject.alternative_chunks()
-        print('Your password:', password)
+        uniqueStringGeneratorObject = UniqueStringGenerator()
+        result_string = uniqueStringGeneratorObject.alternative_chunks()
+        print('Your string:', result_string)
